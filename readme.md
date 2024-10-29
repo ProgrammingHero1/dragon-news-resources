@@ -16,7 +16,7 @@ The base URL for the API is:
 1. **Get All News Categories**
 
    - **URL**: `/news/categories`
-   - **Full URL**: `https://openapi.programming-hero.com/api/news/categories`
+   - **Full URL**: https://openapi.programming-hero.com/api/news/categories
    - **Method**: `GET`
    - **Description**: Retrieves a list of all available news categories.
 
