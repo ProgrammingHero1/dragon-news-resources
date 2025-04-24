@@ -1,506 +1,1568 @@
 [
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+  {
+    "id": "bcdefa0123456789bcdefa01",
+    "category_id": 2,
+    "title": "Bangladesh's Export Earnings Show Strong Growth in Q1 2025",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
     },
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "3",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "total_view": 6789,
+    "author": {
+      "name": "Shirin Akter",
+      "published_date": "2025-04-22T17:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/29.jpg"
     },
-
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71011",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.8, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "thumbnail_url": "https://apparelresources.com/wp-content/uploads/2024/11/Bangladeshs-RMG-exports-decline-by-2.8-per-cent-in-FY-25-Q1-.jpg",
+    "image_url": "https://apparelresources.com/wp-content/uploads/2024/11/Bangladeshs-RMG-exports-decline-by-2.8-per-cent-in-FY-25-Q1-.jpg",
+    "details": "Bangladesh's export sector has demonstrated robust performance in the first quarter of 2025, registering significant growth compared to the same period last year. Key sectors such as readymade garments and leather goods have contributed substantially to this positive trend. The increase in export earnings is attributed to rising global demand and the government's supportive policies aimed at enhancing trade competitiveness. Analysts predict continued growth in the coming quarters, provided that global economic conditions remain favorable and domestic industries maintain their momentum. This positive export performance is expected to have a favorable impact on the country's foreign exchange reserves and overall economic stability.",
+    "tags": ["exports", "economy", "business", "growth", "trade"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
     },
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71012",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "2",
-      "rating": { "number": 4.3, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "production": true
+  },
+  {
+    "id": "23456789abcdef0123456789",
+    "category_id": 2,
+    "title": "Central Bank Announces New Monetary Policy to Control Inflation",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
     },
-
-    {
-      "_id": "11468ed61aee84de492a8b04158a22f9",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "3",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "total_view": 4567,
+    "author": {
+      "name": "Aminul Islam",
+      "published_date": "2025-04-22T16:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/55.jpg"
     },
-    {
-      "_id": "11468ed61aee84de492a8b04158a22f0",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "thumbnail_url": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2024/12/06/taka_mumitm-1977_0.jpg",
+    "image_url": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2024/12/06/taka_mumitm-1977_0.jpg",
+    "details": "The central bank of Bangladesh has unveiled its latest monetary policy statement, outlining measures intended to curb the recent rise in inflation. The new policy includes adjustments to key interest rates and reserve requirements for commercial banks. The central bank aims to stabilize prices and manage inflationary pressures effectively through these interventions. Economists are closely analyzing the potential impact of these measures on various sectors of the economy and on the overall cost of living. The effectiveness of the new monetary policy in achieving its objectives will be closely monitored in the coming months, as the nation grapples with the challenges of rising inflation.",
+    "tags": [
+      "central bank",
+      "monetary policy",
+      "inflation",
+      "economy",
+      "finance"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
     },
-
-    {
-      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "2",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": null,
-      "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
-      "author": {
-        "name": null,
-        "published_date": "2022-08-30 15:00:04",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+    "production": true
+  },
+  {
+    "id": "cdefab0123456789cdefab01",
+    "category_id": 2,
+    "title": "Foreign Investment in Bangladesh Reaches Record High in Fiscal Year 2024-25",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
     },
-
-    {
-      "_id": "a713ee936ff5574273f0f769f5c5b20e",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "3",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 111,
-      "title": "America Imported Over $6 Billion in Goods From Russia Since Ukraine Invasion",
-      "author": {
-        "name": "system",
-        "published_date": null,
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
-      "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
+    "total_view": 8901,
+    "author": {
+      "name": "Laila Rahman",
+      "published_date": "2025-04-22T16:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/15.jpg"
     },
-
-    {
-      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
-      "others_info": {
-        "is_todays_pick": true,
-        "is_trending": false
-      },
-      "category_id": "4",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 733,
-      "title": "Shaquille O’Neal auctions a 1000 size 22 Reeboks for $999.32 each!",
-      "author": {
-        "name": "Theo Minh Châu",
-        "published_date": "2022-08-25 06:03:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
-      "details": "1,000 pairs of autographed Size 22 Reeboks were made available thanks to a partnership between Shaquille O’Neal and Steiner Sports. Shaquille O’Neal is a larger-than-life character in every way. We’re talking about a superstar who earned as many self-styled nicknames as he did awards, a man who made his NBA debut by traveling from coast to coast like a speeding freight train. Naturally, O’Neal was also physically larger than most people due to his 7ft height and 300-pound weight. His absurd size 22 shoes could serve as an oversized phone for Allen Iverson. .@SHAQ‘s signature is going global. The 4x @NBA champ is bringing his SHAQ shoes to South Africa — priced between R799 & R999 ($52 – $65 USD) for children and adults. Shaq says the current line is aimed at “everyday consumers.” pic.twitter.com/MWEHdVZOX0 — Boardroom (@boardroom) January 16, 2022 O’Neal is a well-known figure outside of basketball, where he found tremendous success. The former NBA player is now much more than that because he is well-known all over the country. Shaq gained a lot of admirers by choosing to work with Wall-Mart to launch an affordable footwear line. This helped in solidifying his legacy beyond his playing career. Budget-friendly children’s shoes from O’Neal and the supermarket chain have been well received. Also, read – Anthony Davis and Patrick Beverley – A combination that will potentially make the Los Angeles Lakers a top-ranking defensive side again Shaquille O’Neal agreed to release a thousand autographed size-22 Shaq Attaq shoes for a premium! Shaq was the latest to cash in on the growing wave of collectors, as sports memorabilia for the biggest basketball stars of the 1990s continues to rise in demand. O’Neal has collaborated with Steiner Sports to release 1,000 unique pairs of his first-ever Reebok signature shoe. The Shaq Attaq; each shoe has a unique signature, numbered 32 or 34, with various call-outs to the Diesel’s career achievements such as “HOF 16” and much more. Each pair costs $999.32 and comes in a special glass case with personalized inscriptions. Shoe In: @shaq & @steinersports team up to offer 1,000 size 22 signed rookie shoes for $999.32 each pic.twitter.com/ypm5PFrEk7 — Darren Rovell (@darrenrovell) August 4, 2016 O’Neal collaborated with Steiner Sports, according to ESPN’s Darren Rovell, to provide fans with a pair of his signature shoes. 1,000 pairs of his first signature shoe—the Reebok Shaq Attaq—from his first season with the Orlando Magic were released. The limited edition shoes will cost a staggering $999.32 and come in Shaq’s size 22 feet. The CEO of Steiner Sports, Brandon Steiner, also said that this is just the beginning. The company will continue to produce other O’Neal memorabilia. These include shoes and jerseys that he wore for all of the NBA teams Shaq represented. Also, read – Michael Jordan, who owns a $15 million golf course, once openly mocked President Clinton in a game The post Shaquille O’Neal auctions a 1000 size 22 Reeboks for $999.32 each! appeared first on The SportsRush."
+    "thumbnail_url": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/07/05/fdi.jpg",
+    "image_url": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/07/05/fdi.jpg",
+    "details": "Bangladesh has attracted an unprecedented level of foreign direct investment (FDI) in the fiscal year 2024-25, marking a significant milestone for the country's economic development. Increased investment inflows have been observed across various sectors, including manufacturing, energy, and telecommunications. This surge in FDI is attributed to the government's investor-friendly policies, improved infrastructure, and the country's growing market potential. Analysts believe that this record-high foreign investment will not only boost economic growth but also create numerous employment opportunities. The government is committed to further enhancing the investment climate to sustain this positive momentum and attract even greater foreign capital in the future.",
+    "tags": ["foreign investment", "economy", "business", "FDI", "investment"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
     },
-    {
-      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "4",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 733,
-      "title": "George Russell wears $110 Daniel Ricciardo merchandise to Zandvoort paddock ahead of Dutch GP",
-      "author": {
-        "name": "Theo Minh Châu",
-        "published_date": "2022-08-25 06:03:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
-      "image_url": "https://i.ibb.co/Z2JjRnF/unsplash-Eh-Tc-C9s-YXsw-2.png",
-      "details": "Mercedes’ George Russell arrived at the Zandvoort paddock wearing a Daniel Ricciardo merchandise ahead of the Dutch GP. Ricciardo is one of the most popular and marketable drivers in F1 today. Millions of fans around the world love and idolize him, and his merchandise is one of the highest-selling among all active F1 drivers. It seems as though George Russell himself is a huge fan of the former Red Bull star. Ahead of the 2022 Dutch Grand Prix, Russell arrived at Zandvoort sporting Ricciardo’s merch. He wore a full-sleeve sweater with ‘Enchante’ written on it, and according to the Aussie’s website, it costs $110. something about george russell in daniel ricciardo merch pic.twitter.com/1Z9ZqQ4Lm1 — abs (@footonthegasIy) September 1, 2022 Some people on social media also reported that the 24-year-old was not wearing his own sweater. It was his girlfriend’s sweater, and F1 Twitter loved the fact that both he and his partner are fans of the honey badger! george russell and daniel ricciardo you will always be famous pic.twitter.com/2g2cik6P5P — s (@formullana) September 1, 2022 Ricciardo is having a tough time on track in 2022, but even he will feel good to know that he has so many fans around the world who still love him. Also read: “I have a lot of respect for Ferrari in general”: 24-year old Max Verstappen shares thoughts on $1.35 billion rival team Where will Daniel Ricciardo drive in 2023? Ricciardo’s departure at the end of the season was confirmed by McLaren in August. The Perth-born driver was not performing up to expectations and the Surrey-based outfit decided to pull the plug early. This was not a popular decision, as many people including Sebastian Vettel and Lewis Hamilton felt that the 33-year-old should have gotten more time. For now, he is without an F1 seat but he’s too valuable a driver to remain on the sidelines. Strong rumors have linked him back to a move to Alpine. Team boss Otmar Szafnauer has not confirmed anything as of yet, but he remains the favorite. This is especially because their junior driver Oscar Piastri, who was first choice to replace Fernando Alonso at the team is reportedly on his way to McLaren. There are some other teams who are interested in securing the services of Ricciardo. Both him and Haas team principal Guenther Steiner recently admitted that they held talks about their 2023 seat a few weeks ago. A decision regarding his future in F1 is expected to be announced very soon. Also read: McLaren F1 to save fund from Daniel Ricciardo’s $16 Million Contract to secure Oscar Piastri   The post George Russell wears $110 Daniel Ricciardo merchandise to Zandvoort paddock ahead of Dutch GP appeared first on The SportsRush."
+    "production": true
+  },
+  {
+    "id": "defabc0123456789defabc01",
+    "category_id": 2,
+    "title": "Local Businesses Adapt to Rising Raw Material Costs",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
     },
-
-    {
-      "_id": "f06f8cc035b04bd1158e4198281915a3",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "5",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 127,
-      "title": "9 Things to do in Colorado this Labor Day weekend",
-      "author": {
-        "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
-      "image_url": "https://i.ibb.co/H4p2t3V/unsplash-Eh-Tc-C9s-YXsw-6.png",
-      "details": "COLORADO, USA — Happy Labor Day weekend! Although it may be the unofficial end to summer, there's still time to head outdoors and experience all that Colorado has to offer during the season. Taste of Colorado highlights a packed weekend of festivals which includes music, food, arts, crafts, balloon, wine and beer celebrations. There are early signs of autumn, however. College football is back with three games this weekend and the first Oktoberfest steins of the year will be raised in Keystone and Beaver Creek. Check out one of these awesome events happening across the Centennial State this Labor Day weekend. Remember to share your weekend photos with the \"Near Me\" feature on the 9NEWS app. > Submit an event to 9Things To Do . Credit: A Taste of Colorado Taste of Colorado DENVER — Colorado's signature Labor Day weekend festival is back at Civic Center Park in downtown Denver. The 39th annual Taste of Colorado will be held Saturday, Sept. 3 to Monday, Sept. 5. This year's event features five stages where attendees can listen to music from more than 60 artists including tribute bands, country musicians, jazz, cultural lineups and Denver bands. An Arts & Crafts Marketplace will have 50 local artisan booths and over 30 food trucks and restaurant vendors. Credit: Colorado State Fair Colorado State Fair PUEBLO — T he largest summer event in Colorado continues this weekend in southern Colorado. The Colorado State Fair offers a carnival, 4-H exhibits, agricultural competitions, tractor pulls, live music performances, rodeos, bake offs and amazing food options. T he Colorado State Fair runs through Monday, Sept. 5 with concerts from The Band Perry and Stone Temple Pilots, p lus monster truck shows and a demolition derby. Check out the full fair schedule at ColoradoStateFair.com . Credit: Windsor Harvest Festival The 96th Annual Windsor Harvest Festival arrives September 2 to 4, 2018 in Windsor, Colorado. Photo Courtesy: Windsor Harvest Festival. Windsor Harvest Festival WINDSOR — Windsor's largest family-friendly event is back for a 100th year this Labor Day weekend. This year's Windsor Harvest Festival theme is \"Build for the Future While Honoring the Past.\" The festival runs from Saturday, Sept. 3 to Monday, Sept. 5 with live music, a street dance, BBQ, car show, pancake breakfast, horse-drawn carriage rides, outdoor games, beer garden, movie screening in the park, and firework show. Balloon launches are planned for Saturday and Sunday at 6:30 a.m. at Eastman Park. A parade steps off at 9 a.m. Monday. Visit W indsorHarvestFestival.com to see the complete schedule. Credit: Colorado Springs Labor Day Lift Off Labor Day Lift Off COLORADO SPRINGS — A Southern Colorado tradition returns this weekend with the Colorado Springs Labor Day Lift Off . Running Saturday, Sept. 3 through Monday, Sept. 5, the free event begins each morning with an ascension of over 70 balloons accompanied by breakfast and drinks from local vendors. Throughout each day there will be skydiving demonstrations, wakeboarding exhibitions, paddle boarding and live entertainment. Evening balloon glows are set for Saturday and Sunday at 7:30 p.m. The Colorado Springs Labor Day Lift Off takes place at Memorial Park. Credit: Matthew Murphy Hadestown Hadestown DENVER — \"Hadestown,\" the winner of eight Tony Awards in 2019 including Best Musical, has just opened at Denver's Buell Theatre. \"Hadestown\" intertwines the tales of young dreamers Orpheus and Eurydice with that of King Hades and his wife Persephone on hell-raising journey to the underworld and back. With an exceptional cast of actors, dancers and singers, the musical is a haunting but hopeful theatrical experience that grabs you and never lets go. \"Hadestown\" plays the Buell Theatre through Sunday, Sept. 11. Credit: Denver Chalk Art Festival Denver Chalk Art Festival DENVER — The annual Denver Chalk Art Festival has moved to Denver's Golden Triangle neighborhood this weekend. The street painting festival, which runs Saturday, Sept. 3 through Monday, Sept. 5, will have 150 artists creating awe-inspiring works of chalk art. The festival is two blocks south of Civic Center Park (and Taste of Colorado) near 12th and Bannock and the Denver Art Museum. Credit: Seven Peaks Music Festival Seven Peaks Music Festival VILLA GROVE — Seven Peaks Music Festival returns for a third edition this weekend with a star-studded country music lineup. Dierks Bentley and Morgan Wallen headline the festival with guests Boy Named Banjo, Ashley Cooke, Jordan Davis, Jackson Dean, Travis Denning, Hardy, Kendell Marvel, Ashley McBryde, Old Crow Medicine Show, Caitlyn Smith, Rapidgrass, Alana Springsteen and Lainey Wilson. Seven Peaks Music Festival runs Friday, Sept. 2 to Sunday, Sept. 4 in Villa Grove, located about 45 miles south of Buena Vista. Labor Day Weekend in Creede CREEDE — Creede's Labor Day Weekend celebration is packed with events including a mountain run, outdoor movie, music, theater and more. The 36th annual Creede Mountain Run takes place Saturday, Sept. 3. Participants will enjoy the breathtaking San Juan Mountains in 50K, 22 mile, 12 mile and two-mile runs. Registration is available online . To see the complete Labor Day Weekend schedule, visit Creede.com . Credit: KUSA TCU vs. Colorado BOULDER — The University of Colorado football teams opens the 2022 season on Friday, Sept. 2. The CU Buffaloes host TCU in a nationally-televised game on ESPN with an 8 p.m. kickoff. Fans are encouraged to wear black to the game. A new sound system will also make its debut at Folsom Field on Friday. Season and single game tickets remain available at CUBuffs.com . RELATED: CU's football stadium will sound different in opener vs. TCU Northern Iowa vs. Air Force COLORADO SPRINGS — Air Force Academy football opens its season on Saturday, Sept. 3 against Northern Iowa in the first meeting between the schools. Northern Iowa head coach Mark Farley enters his 22nd season with the Panthers as the most winningest coach in program history. Air Force Falcons head coach Troy Calhoun is 15-0 against teams from the Football Championship Subdivision. The Falcons and Panthers kick off at 11 a.m. Saturday at Falcon Stadium. Houston Baptist vs. Northern Colorado GREELEY — University of Northern Colorado head coach Ed McCaffrey leads the Bears onto the field at Nottingham Field on Saturday, Sept. 3 at 2 p.m. against Houston Baptist. Last year, linebacker David Hoage recorded three sacks against Houston Baptist, the most since 2017. Fans should arrive early for the Pepsi Fan Fest, Bears, Brews and Bites and tailgate with fellow Bear fans. Credit: Water World Water World’s final weekend FEDERAL HEIGHTS — This is the final weekend of 2022 to visit one of America's largest family water parks. Water World 's final three days of operation this season are Saturday, Sunday and Monday. Water World features more than fifty attractions, from kids rides to huge thrill rides. Most food and drinks can be brought into the park making it perfect for picnics and parking is free. Avoid the lines and get your tickets online . Elitch Gardens water park DENVER — Elitch Gardens closes its water park on Sunday, Sept. 4. The main amusement park area will remain open through Sunday, Oct. 30 in downtown Denver. Credit: Cirque du Soleil Ovo LOVELAND — Cirque du Soleil has brought a touring circus to Colorado for the first time since 2019. \"Ovo\" is in Colorado Springs before heading to Denver next weekend. The show \"Ovo\" — meaning \"egg\" in Portuguese — is comprised of 100 people from 25 countries, including 52 artists, with high-level acrobatic acts. \"Ovo\" is at Broadmoor World Arena through Sunday, Sept. 4. Tickets are sold at AXS.com . RELATED: Cirque du Soleil returns to Colorado Credit: Jurassic World: The Exhibition Jurassic World: The Exhibition DENVER — This is the final weekend to see \"Jurassic World: The Exhibition\" at the Stockyards Event Center of the National Western Center. An immersive 20,000-square-foot experience based on the blockbuster movie franchise, \"Jurassic World: The Exhibition\" allows visitors to walk through the world-famous Jurassic gates, encounter life-sized dinosaurs and explore richly themed environments. Tickets are on sale at JurassicWorldExhibition.com . The show will be in Denver through Monday, Sept. 5. Credit: Taryn Parker; Broncos 7K Broncos Fit 7K DENVER — The 10th annual Broncos Fit 7K returns to Empower Field at Mile High on Sunday, Sept. 4. All runners will receive an exclusive Broncos shirt, finisher's medal and the experience of racing across the field and crossing the 50-yard line. Proceeds will benefit Denver Broncos Charities. Register at DenverBroncos.com . Labor Day Half Marathon, 10K and 5K PARKER — Celebrate the holiday weekend with a half marathon, 10K or 5K . There's a distance for everyone at Monday's races at Parker's Salisbury Equestrian Park. Runners of all abilities are welcome. Each participant gets a running shirt, finisher's medal, chip timing and race photos. Race registration is available at ColoradoRunnerEvents.com . Credit: DCPA David Byrne and Mala Gaonkar Theater of the Mind DENVER — \"Theater of the Mind\" is a new theatrical experience you’ll see, feel, taste and hear, co-created by Academy, Grammy, and Tony Award-winning artist David Byrne and writer Mala Gaonkar. Witness the wonders of your mind for yourself as you follow The Guide through a spectacular, 15,000-square-foot installation in a group of 16 audience members. \"Theater of the Mind\" takes place at the York Street Yards at 39th and Steele through Dec. 18. RELATED: David Byrne brings his creative talents to Denver for DCPA's latest show Credit: Saint Rafka Maronite Catholic Church Lebanese and Middle Eastern Festival LAKEWOOD — Saint Rafka Maronite Catholic Church is hosting its annual Lebanese and Middle Eastern Festival on Saturday, Sept. 3, from 11 a.m. to 10 p.m. at 2301 Wadsworth Blvd in Lakewood. Experience this unique cultural and culinary festival featuring authentic Lebanese and Middle Eastern cuisine and entertainment with fun for everyone. Credit: Keystone Festivals Keystone Oktoberfest KEYSTONE — Oktoberfest season officially arrives with Saturday's 9th annual Oktoberfest at Keystone’s River Run Village . Attendees will be raising their steins, dancing to oompah bands and savoring delicious German fare. The festival, which runs from 1 p.m. to 6 p.m., will have live music, food and seasonal beer. The festival will also have a kids’ area with crafts and dance performances from the Denver German Traditional Dance Group. If you buy a commemorative 2022 stein, you'll get three beer tokens. Stein tickets are available online . Beaver Creek Oktoberfest BEAVER CREEK — Beaver Creek’s long-running Oktoberfest is a family-friendly celebration of traditional live music, food and drink the heart of a Bavarian-inspired village. Festivities planned on Friday, Saturday and Sunday include stein-hoisting competitions, bratwurst-eating competition, kids’ zone, Oktoberfest shuffle, best-dressed contest and live music from Trachtenkapelle, The Helmet Fricker Band, Philadelphia Freedom and more. A complete schedule can be found at BeaverCreek.com . Castle Rock Brew Fest Under the Stars CASTLE ROCK — The Castle Rock Brew Fest Under the Stars is Sunday, Sept. 4 at Philip S. Miller Park. The fest will offer craft beer from more than 20 breweries, food from eight food trucks and four bands. Each ticket comes with admission, unlimited food, eight-ounce craft beer pours and live entertainment until 9 p.m. Tickets are available online . Fountain Fall Festival & Parade FOUNTAIN — The 52nd annual Fountain Fall Festival and Parade arrives Monday, Sept. 5 in Fountain. The Labor Day Parade begins at 10 a.m. Monday and will run along Main Street and Ohio Avenue. The Fall Festival opens at 10:30 a.m. at John Metcalf Park. Credit: Jazz Aspen Snowmass JAS Labor Day Experience SNOWMASS — The Jazz Aspen Snowmass Labor Day Experience is a popular three-day music festival on the grounds outside the Snowmass Village Recreation Center. This year's 31st annual lineup includes Leon Bridges, Chris Stapleton, Stevie Nicks, Little Big Town, Zach Bryan, St. Paul and the Broken Bones and more. The festival runs Friday, Sept. 2 to Sunday, Sept. 4. Tickets are sold at JazzAspenSnowmass.org. Credit: Pixar Putt Pixar Putt DENVER — Pop-up, open air mini-golf experience Pixar Putt has arrived in Denver. The experience is made up of 18 holes inspired by the stories, characters and icons from some of Disney and Pixar's most beloved films including \"Toy Story,\" \"The Incredibles,\" \"Monsters, Inc.,\" \"Finding Nemo,\" \"Coco,\" \"A Bug's Life,\" \"Wall-E,\" and \"Inside Out.\" Pixar Putt is staged at McGregor Square’s Rally Hotel beginning Saturday, Sept. 3 and running through Nov. 27. Credit: 9NEWS Nan Desu Kan AURORA — The three-day Japanese culture convention Nan Desu Kan is back this weekend at Gaylord Rockies Resort & Convention Center in Aurora. Since 1997, the event has showcased traditional Japanese arts, anime, cosplay, gaming, shopping, music, dance, voice actors, competitions, charity and more. Nan Desu Kan runs Friday, Sept. 2 through Sunday, Sept. 4. Check out the full lineup at NDKDenver.org . Credit: NPS Photo/J. Koch Bent’s Old Fort OTERO COUNTY — The public is invited to join the inhabitants of Bent’s Old Fort on Friday, Sept. 2 from 1 p.m. to 5:30 p.m. and Saturday, Sept. 3 from 8 a.m. to 5:30 p.m. to experience the sights and sounds of Bent, St. Vrain, & Company in 1847. There is no additional fee to participate in this special event. Regular park entrance fees apply. Bent’s Old Fort National Historic Site is located on Colorado Highway 194, eight miles east of La Junta. Credit: jerd nakata - stock.adobe.com Estes Park Labor Day Arts & Crafts Show ESTES PARK — The Estes Park Arts and Crafts Show brings over 100 artisans to downtown Estes Park every Labor Day weekend. This year's show runs from Saturday, Sept. 3 to Monday, Sept. 5 at Bond Park. The show, when combined with the shops and restaurants of downtown, make Estes Park a great weekend destination on the edge of Rocky Mountain National Park. Commonwheel Art Festival MANITOU SPRINGS — Manitou Springs' Memorial Park is the site of this weekend’s Commonwheel Artists Co-op 48th annual Labor Day Art Festival . The festival will be open from 10 a.m. to 5 p.m. Saturday, Sept. 3 to Monday, Sept. 5. There will be dozens of art vendors, live music, food options, beer garden and kids’ activities. Admission is free. Credit: digidreamgrafix - stock.adobe.com Windsor Cruise In Car Show WINDSOR — One of the largest car shows in northern Colorado will be held Sunday, Sept. 4 from 10 a.m. to 2 p.m. The Windsor Cruise In Car Show at Eastman Park will have categories in 20s and older, 30s, 40s, 50s, 60s, 70s, 80s, 90s and newer, trucks, and diamond-in-the-rough vehicles. There is no entry fee for car enthusiasts interested in stopping by, viewing the cars, meeting and mingling with the owners of the vehicles. Credit: Lukas Gojda - stock.adobe.com Four Corners Motorcycle Rally DURANGO — Durango, which serves as a gateway to the world famous Million Dollar Highway, is the home of this weekend's three-day Four Corners Motorcycle Rally . There will be races, stunt shows, live music, bike shows and more. Visit FourCornersMotorcycleRally.com to see a complete event schedule. Credit: Rotary Club of Vail Vail Duck Race VAIL — The Vail Rotary Club is hosting its annual rubber duck race at 3 p.m. this Sunday, Sept. 4. The club will send about 15,000 ducks down Gore Creek. The race will begin at the Covered Bridge and end at the Vail Rotary International Bridge. The owner of the first duck that enters the chute will win $5,000. This event serves as a fundraiser for the Vail Rotary which supports many Vail-area organizations. Ducks are available for adoption online . Credit: Steve Lovegrove - stock.adobe.com Ouray County Rodeo RIDGWAY — Ouray County is ready for rodeo! The 2022 Ouray County Labor Day Rodeo will be held Monday, Sept. 5 with a parade at 10 a.m., BBQ in the Park at 11 a.m. and CPRA Rodeo at 1 p.m. Active military and children under six receive free admission . Labor Day Weekend Rodeo TRINIDAD — The Trinidad Round-Up Association's 112 th an nual Labor Day Weekend is a three -day celebration at the Las Animas County Fairgrounds. The weekend includes two rodeo performances , Saturday night dance, performance by the Westernaires , beer garden, expo, concessions , vendors, stick horse races, kids ’ nickel scramble and more. The L abor Day Pa rade steps off at 9 a.m. Monday, Sept. 5 in downtown Trinidad. Credit: kojihirano - stock.adobe.com Yampa Valley Crane Fest STEAMBOAT SPRINGS — The 11th annual Yampa Valley Crane Festival will be held Thursday, Sept. 1 to Sunday, Sept. 4 in Steamboat Springs, Hayden and Craig. The festival features four-days of mostly free events, but some activities including crane-viewing shuttles and those with limited space, require advance registration and small fee. Organizers say the best way to view cranes are the four guided crane-viewing events throughout the festival. This year’s event also will have speakers, workshops, educational displays, story-telling event, aerial arts dancers, walks, coloring contest, children and family activities and more. See the full schedule at ColoradoCranes.org . Credit: Colorado National Speedway Colorado National Speedway DACONO — Colorado National Speedway will hold two nights of Labor Day weekend racing. Short track NASCAR-sanctioned racing is scheduled for Saturday, Sept. 3 and Sunday, Sept. 4 with post-race firework shows. Tickets are available at the box office or ColoradoSpeedway.com . Credit: Rocky Mountain Vibes Rocky Mountain Vibes vs. Northern Colorado Owlz COLORADO SPRINGS — The Rocky Mountain Vibes host rival Northern Colorado Owlz for three games at UCHealth Park. Thursday, Sept. 1 is Ladies Nights and Friday, Sept. 2 has post-game fireworks. Credit: Michael Pierce Photography Four Corners Folk Festival PAGOSA SPRINGS — The 26th annual Four Corners Folk Festival runs Friday, Sept. 2 to Sunday, Sept. 4 with live performances from Yonder Mountain String Band, Darrell Scott Trio, Heartless Bastards, Dirtwire, Gangstagrass, Amy Helm, William Prince and more. Credit: Amy Harris/Invision/AP Trey Anastasio of Phish Phish COMMERCE CITY — In what's become a tradition dating back to 2011 , Phish returns to Colorado over Labor Day weekend. Known for its improvisational style and dedicated fan base, the jam band will play at Dick’s Sporting Good Park on Thursday, Sept. 1, Friday, Sept. 2, Saturday, Sept. 3, and Sunday, Sept. 4. Phish's run in Colorado ends the band's 2022 summer tour. Tickets are sold at Ticketmaster.com . Credit: Kizzy O'Neal Singer-songwriter Jack Johnson will perform at Ruoff Music Center in Noblesville, Indiana, on Sunday, July 3, 2022. Jack Johnson GREENWOOD VILLAGE — Singer-songwriter Jack Johnson will bring his 2022 tour to Fiddler's Green Amphitheatre on Wednesday, Aug. 31 and Thursday, Sept. 1, with Ziggy Marley & the Melody Makers. Johnson's tour kicked off in June and wraps in October. Fiddler's Green Amphitheatre is the largest outdoor amphitheater in the Denver metro area. Credit: Colorado Tourism Office Telluride Film Festival TELLURIDE — The 49th annual Telluride Film Festival is this Labor Day weekend. The prestigious event features many films premiering for the first time in North America. From Friday, Sept. 2 to Mon day, Sept. 5, more than 50 programs will be screened in ten venues. The lineup of the Telluride Film Festival will not be revealed until the weekend. Credit: Hershey Entertainment Red Rocks DENVER — There is no better venue for live music in the country than Colorado's Red Rocks Amphitheatre! The Red Rocks 2022 concert schedule is still growing and even features some concerts postponed from 2020. Thursday, Sept. 1 - Robert Plant, Alison Krauss Friday, Sept. 2 - Nine Inch Nails Saturday, Sept. 3 - Nine Inch Nails Sunday, Sept. 4 - Kidz Bop Live Monday, Sept. 5 - Shaky Graves, Sierra Ferrell Credit: oles_photo - stock.adobe.com Movies this weekend Without any major releases this weekend, most major movie theater chains have declared Saturday, Sept. 3 as \"National Cinema Day\" with special deals and discounts. AMC, Cinemark and Regal Cinemas are participating, as are all major film studios. In participating theaters, tickets will be no more than $3 for every showing, in every format. RELATED: Coming to a theater near you: $3 movie tickets for one day Last weekend's box office The Invitation — $6.8 million Bullet Train — $5.6 million Beast — $4.8 million Top Gun: Maverick — $4.7 million Dragon Ball Super: Super Hero — 4.6 million DC League of Super-Pets — $4.1 million Three Thousand Years of Longing — $2.9 million Minions: The Rise of Gru — $2.7 million Thor: Love and Thunder — $2.6 million Where the Crawdads Sing — $2.3 million RELATED: Back to normal at the movies? What to expect this fall RELATED: 'The Invitation' tops tepid weekend at box office > Would you like to see your favorite Colorado festival, fair, expo, concert, drama, musical, ballet, run or event listed in 9Things? Send it to alexander.kirk@9news.com . 'A Taste of Colorado' — Denver Labor Day weekend tradition 1/22 A Taste of Colorado 2/22 A Taste of Colorado 3/22 Evan Semón Photography; A Taste of Colorado 4/22 A Taste of Colorado 5/22 A Taste of Colorado 6/22 A Taste of Colorado 7/22 A Taste of Colorado 8/22 A Taste of Colorado 9/22 A Taste of Colorado 10/22 A Taste of Colorado 11/22 A Taste of Colorado 12/22 A Taste of Colorado 13/22 A Taste of Colorado 14/22 A Taste of Colorado 15/22 A Taste of Colorado 16/22 A Taste of Colorado 17/22 A Taste of Colorado 18/22 A Taste of Colorado 19/22 A Taste of Colorado 20/22 A Taste of Colorado 21/22 A Taste of Colorado 22/22 A Taste of Colorado 1 / 22 × A Taste of Colorado More > Top stories curated daily just for you! Sign up for the 9NEWSLETTER to get can’t-miss stories, Next and Broncos content, weather and more delivered right to your inbox. SUGGESTED VIDEOS: Colorado Guide MORE WAYS TO GET 9NEWS Subscribe to our daily 9NEWSLETTER Download the 9NEWS APP iTunes: http://on9news.tv/itunes Google Play: http://on9news.tv/1lWnC5n HOW TO ADD THE 9NEWS APP TO YOUR STREAMING DEVICE ROKU: add the channel from the ROKU store or by searching for KUSA. For both Apple TV and Fire TV, search for \"9news\" to find the free app to add to your account. Another option for Fire TV is to have the app delivered directly to your Fire TV through Amazon."
+    "total_view": 3456,
+    "author": {
+      "name": "Omar Faruk",
+      "published_date": "2025-04-22T16:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/92.jpg"
     },
-    {
-      "_id": "f06f8cc035b04bd1158e4198281915a4",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "5",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 127,
-      "title": "Up Late with Ben Harvey: Why Troy Mercanti needs to start an OnlyFans account",
-      "author": {
-        "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-      "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-      "details": "On Thursday night’s episode of Up Late, Ben Harvey has suggested Troy Mercanti start an OnlyFans account if he wishes to challenge anti-consorting laws. The notorious bikie will fight allegations that he broke WA’s stringent anti-consorting and insignia laws — but is also watching a High Court challenge to the regulations which the State Government have touted have the nation’s toughest against outlaw motorcycle gang members. The long-time one per center was not in court on Wednesday when the not guilty pleas were entered. WATCH UP LATE IN THE VIDEO PLAYER ABOVE But his lawyer Paul Holmes was, who revealed that Mercanti’s defence will be on two fronts — against elements of the alleged offence, and the legislation itself. Mercanti was charged with the two offences outside an Italian restaurant in front of shocked onlookers earlier this year. According to eyewitnesses, Mercanti — dressed in a T-shirt and shorts — was having lunch with long-time friend John Kizon at Mt Hawthorn’s Lupo Lab when more than a dozen officers from the gang crime squad descended and asked him to step outside. Soon afterwards, he was told he was being charged via summons with displaying gang insignia, which was prohibited under sweeping laws that came into effect a few months ago. Earlier the same week, Mercanti was hit with a dispersal notice by police while picking up a friend at the airport. Mercanti’s case was adjourned until October to be allocated a trial date. On Up Late, Harvey warned fighting in court may get expensive for Mercanti, and suggested a way he may be able to come up with the cash. Harvey may have gotten the idea after it was this week revealed that Dhakota Williams — the 21-year-old daughter of slain underworld king Carl Williams started an OnlyFans account. “If it’s good enough for the wife and daughter of slain gangland boss Carl Williams then it’s gotta be good enough for Troy Mercanti,” Harvey says. “See Troy’s OnlyFans page for exclusive tips for how a modern outlaw can best accessorise… find out why black and white are the only colours you need in your wardrobe… a showcase of latest leather trends… tips on keeping healthy. “And exclusively for OnlyFans subscribers... an inside look at the man who put the soft into soft serve, how he relaxes listing to 80s glam-rock and some cosplay as a Lego spaceman.”"
+    "thumbnail_url": "https://media.licdn.com/dms/image/v2/D4E12AQHDZfFbG3RuAw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685979901445?e=2147483647&v=beta&t=SWkw-wWTwSJav3iPJuSl4qSZgt8mC1YOcI-SCWEuA5c",
+    "image_url": "https://media.licdn.com/dms/image/v2/D4E12AQHDZfFbG3RuAw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685979901445?e=2147483647&v=beta&t=SWkw-wWTwSJav3iPJuSl4qSZgt8mC1YOcI-SCWEuA5c",
+    "details": "Local businesses in Bangladesh are facing increasing pressure due to the rising costs of raw materials in both domestic and international markets. Many enterprises are actively seeking strategies to adapt to these challenging economic conditions, including exploring alternative sourcing options, implementing cost-cutting measures, and adjusting pricing strategies. The impact of these rising costs is being felt across various industries, from manufacturing to consumer goods. Business analysts are closely monitoring how these challenges will affect the overall competitiveness and sustainability of local enterprises in the long run. Support measures from the government and industry associations may be crucial in helping businesses navigate these economic headwinds.",
+    "tags": ["business", "economy", "raw materials", "costs", "challenges"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
     },
-
-    {
-      "_id": "cd2b53655737cc4077542baea9f8f75d",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "2",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 700,
-      "title": "Halo, GTA Vice City Actor Directing Movie About Hunter Biden",
-      "author": {
-        "name": "Daniel Deangelo",
-        "published_date": "2022-08-30 20:02:52",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Robert Davi will be a pretty familiar face to fans of entertainment from the 1980s and 1990s, with supporting roles in The Goonies, Die Hard, and many other films and TV shows. He also lent his voice to Colonel Juan Cortez, a significant character in Grand Theft Auto: Vice City. Meanwhile, Halo fans will recognize his voice as that of the Elite Shipmaster Ratas Vadum from Halo 2 and Halo 3. He's responsible for some of the trilogy's most iconic scenes, including his speech in Halo 2 and 'Then it is an even fight' line in Halo 3."
+    "production": true
+  },
+  {
+    "id": "efabcd0123456789efabcd01",
+    "category_id": 2,
+    "title": "Government Announces New Incentives for Small and Medium Enterprises (SMEs)",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
     },
-    {
-      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "7",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 300,
-      "title": "Joe Biden announces $3B in new military aid to Ukraine",
-      "author": {
-        "name": "",
-        "published_date": "2022-08-24 22:30:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Washington, Aug 24 (Prensa Latina) President Joe Biden has announced he will allot nearly billion in military aid to Kyiv – the biggest US package so far since the beginning of the Russian military…"
+    "total_view": 5678,
+    "author": {
+      "name": "Taslima Nasrin",
+      "published_date": "2025-04-22T16:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/67.jpg"
     },
-    {
-      "_id": "7c4dfea0fafddc813673282a428429b7",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 0,
-      "title": "Biden announces $3 billion Ukraine military aid package on its Independence Day",
-      "author": {
-        "name": "Reuters",
-        "published_date": "2022-08-25 03:09:16",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Published: 25 Aug 2022, 09: 09 US president Joe Biden speaks as he attends the first virtual meeting of the   I2U2   group with Israeli prime minister Yair Lapid and leaders of India and the United Arab Emirates, in Jerusalem 14 July, 2022ReutersUS President Joe Biden marked Ukraine's Independence Day on Wednesday with $3 billion in security assistance, Washington's largest aid package since Russia's invasion six months ago but one that could take months or even years to arrive in Kyiv.The aid announcement came as US officials warned that Russia appeared to be planning to launch fresh attacks in coming days on Ukraine's civilian infrastructure and government facilities."
+    "thumbnail_url": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/08/10/sme_small_and_medium_enterprises.jpg",
+    "image_url": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/08/10/sme_small_and_medium_enterprises.jpg",
+    "details": "The government of Bangladesh has introduced a new set of incentives aimed at bolstering the growth and development of Small and Medium Enterprises (SMEs) across the nation. These incentives include easier access to financing, tax benefits, and support for technological upgrades. The initiative recognizes the crucial role of SMEs in job creation and economic diversification. Government officials believe that these measures will empower SMEs to expand their operations, enhance their competitiveness, and contribute more significantly to the country's overall economic progress. Workshops and awareness campaigns are planned to ensure that SMEs are well-informed about these new opportunities and can effectively avail themselves of the available support.",
+    "tags": ["SME", "business", "economy", "incentives", "government support"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
     },
-    {
-      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 320,
-      "title": "U.S. announces largest weapons package for Ukraine",
-      "author": {
-        "name": "John Pike",
-        "published_date": "2022-08-25 07:35:11",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
-      "details": "People's Daily Online (Xinhua) 08:16, August 25, 2022 The United States has committed more than 13.5 billion dollars in security assistance to Ukraine since President Joe Biden took office. WASHINGTON, Aug. 24 (Xinhua) -- The United States on Wednesday announced an additional tranche of security assistance to Ukraine worth nearly 3 billion U.S. dollars, the largest one-time weapons aid to Kiev that came as the Russia-Ukraine conflict reached the half-year mark. According to a breakdown by the Department of Defense (DoD), items in the newly-announced package include six additional National Advanced Surface-to-Air Missile Systems (NASAMS) with additional munitions for NASAMS, up to 245,000 rounds of 155mm artillery ammunition, up to 65,000 rounds of 120mm mortar ammunition, up to 24 counter-artillery radars, Puma Unmanned Aerial Systems (UAS) and support equipment for Scan Eagle UAS systems,   Vampire   counter-UAS systems, as well as laser-guided rocket systems."
+    "production": true
+  },
+  {
+    "id": "fabcde0123456789fabcde01",
+    "category_id": 2,
+    "title": "E-commerce Sector in Bangladesh Sees Rapid Expansion Amidst Digital Adoption",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
     },
-    {
-      "_id": "df11ff9feefc37613cc3a4486ce02151",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "2",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 552,
-      "title": "US commander to train Ukraine military",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-27 05:38:02",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-      "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-      "details": "Agencies | Washington The Daily Tribune – www.newsofbahrain.com The US President Joe Biden plans to appoint a general in Ukraine to lead the military training and relief efforts, the Wall Street Journal reported citing US officials. The officials indicated that in the coming weeks, the US administration also plans to name its military mission to support Ukraine. The name of the operation formally recognises US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'."
+    "total_view": 7890,
+    "author": {
+      "name": "Sayed Hasan",
+      "published_date": "2025-04-22T17:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/41.jpg"
     },
-    {
-      "_id": "919db97c34e0778b387dd40cdfa08130",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 89,
-      "title": "U.S. concerned about India's participation in Russia military exercises",
-      "author": {
-        "name": "MarketScreener",
-        "published_date": "2022-08-30 18:05:42",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "Last month, Moscow announced plans to hold   Vostok   (East) exercises from Aug. 30 to Sept. 5, even as it wages a costly war in Ukraine. The military exercises are expected to include China, India, Belarus, Mongolia, Tajikistan and other countries, China's defense ministry has said. Asked about India's participation, Jean-Pierre told reporters as President Joe Biden flew to Pennsylvania that the United States was concerned about any country participating in military exercises with Russia while it is at war with Ukraine."
+    "thumbnail_url": "https://allnextver.com/wp-content/uploads/2024/09/Top-E-commerce-Sites-in-Bangladesh-1024x538.jpg",
+    "image_url": "https://allnextver.com/wp-content/uploads/2024/09/Top-E-commerce-Sites-in-Bangladesh-1024x538.jpg",
+    "details": "The e-commerce sector in Bangladesh is experiencing a period of significant and rapid expansion, fueled by increasing internet penetration and growing digital adoption among consumers. Online marketplaces and digital payment systems are becoming increasingly popular, transforming the retail landscape. This growth is creating new opportunities for businesses of all sizes to reach a wider customer base. Industry analysts predict that this upward trend will continue, driven by factors such as convenience, competitive pricing, and the expanding availability of online services. The government is also focusing on developing a supportive regulatory framework to foster the sustainable growth of the e-commerce ecosystem and protect consumer interests in this evolving market.",
+    "tags": ["e-commerce", "business", "technology", "digital", "retail"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
     },
-    {
-      "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 798,
-      "title": "Zelensky says he had ‘great conversation' with Biden, discussed Kiev's further steps",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-25 18:45:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "KIEV, August 25. /TASS/. Ukrainian President Vladimir Zelensky said he had a   great   phone conversation with his US counterpart Joe Biden and discussed with him Ukraine's further actions on Thursday.    Had a great conversation with @POTUS. Thanked for the unwavering U.S. support for Ukrainian people - security and financial,   he wrote on Twitter.   We discussed Ukraine's further steps,   Zelensky added.  On Wednesday, US President Joe Biden announced $2.98 bln in military aid to Ukraine. On the same day, Ukrainian Prime Minister Denis Shmygal reported that the Ukrainian state budget received grant aid from the US in the amount of $3 bln."
+    "production": true
+  },
+  {
+    "id": "bcdefa9876543210bcdefa98",
+    "category_id": 2,
+    "title": "Stock Market Witnesses Increased Volatility Following Global Economic Uncertainty",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
     },
-    {
-      "_id": "acb9b6785b62698fc6130db7615965e1",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "3",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 879,
-      "title": "US Pledges $3 Bln In Additional Security Assistance For Ukraine",
-      "author": {
-        "name": "RTTNews",
-        "published_date": "2022-08-25 11:53:13",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
-      "details": "The United States has pledged nearly $3 billion in additional security assistance for Ukraine to help fight Russia's invasion as well as enable the country to defend itself over the long term. The latest aid package, under the Ukraine Security Assistance Initiative (USAI), was announced by President Joe Biden on Ukraine's Independence Day. This will allow Ukraine to acquire air defense systems,"
+    "total_view": 5432,
+    "author": {
+      "name": "Maliha Chowdhury",
+      "published_date": "2025-04-22T17:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/73.jpg"
     },
-    {
-      "_id": "be44c843d61859cc0b87cae85c55f9db",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 231,
-      "title": "US to name military mission in Ukraine and appoint commander – WSJ",
-      "author": {
-        "name": "Kumar Natasha",
-        "published_date": "2022-08-26 12:15:36",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-      "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-      "details": "Illustrative public photo In the coming weeks, the Joe Biden administration plans to name its military mission to support Ukraine and appoint a general to lead the military training and relief efforts. This is reported by The Wall Street Journal, citing US officials. The name of the operation formally recognizes US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'. The naming of training and assistance is of great bureaucratic importance, as it usually entails long-term dedicated funding and the possibility of special pay, rewards for military personnel participating in these missions."
+    "thumbnail_url": "https://static.euronews.com/articles/stories/09/19/02/94/1200x675_cmsv2_a908d85c-e7b7-517f-a169-06b97cd60892-9190294.jpg",
+    "image_url": "https://static.euronews.com/articles/stories/09/19/02/94/1200x675_cmsv2_a908d85c-e7b7-517f-a169-06b97cd60892-9190294.jpg",
+    "details": "The stock market in Bangladesh has experienced a notable increase in volatility in recent trading sessions, primarily influenced by prevailing uncertainties in the global economic outlook. Fluctuations in international markets and concerns over global growth prospects have contributed to investor caution. Market analysts are advising investors to exercise prudence and carefully assess potential risks associated with the current market conditions. Regulatory authorities are closely monitoring the situation to ensure market stability and prevent any unwarranted speculation. The performance of major global economies will likely continue to have a significant impact on the local stock market sentiment in the near term.",
+    "tags": ["stock market", "economy", "business", "finance", "volatility"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
     },
-    {
-      "_id": "1b03149c50f1bec662062d930bf46489",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "2",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 546,
-      "title": "Opinion: After a summer of surprising successes, President Biden is on a roll",
-      "author": {
-        "name": "The Philadelphia Inquirer",
-        "published_date": "2022-08-30 22:00:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+    "production": true
+  },
+  {
+    "id": "cdefab9876543210cdefab98",
+    "category_id": 2,
+    "title": "Renewable Energy Sector Attracts Growing Investor Interest in Bangladesh",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
     },
-    {
-      "_id": "7f5b80c1cdd4df0111918883eae07349",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "3",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 1870,
-      "title": "Ukraine receives more military aid from allies on its independence day",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
-      "published_date": "2022-08-24 18:00:00",
-      "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+    "total_view": 6543,
+    "author": {
+      "name": "Ahsan Habib",
+      "published_date": "2025-04-22T16:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/19.jpg"
     },
-    {
-      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "7",
-      "rating": { "number": 4.2, "badge": "Excellent" },
-      "total_view": 354,
-      "title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
-      "author": {
-        "name": "Presstv",
-        "published_date": "2022-08-30 17:44:16",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
-      "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mandela. “He looked at me, and he’s just like light. He said, ‘I just need you to know: When you married into this family, we rejoiced in the streets the same we did when Mandela was freed from prison,’” she said during an interview with The Cut. The Daily Mail revealed Dr John Kani, who claims he was the only South African actor in the film, said he did not attend the premiere and had never met the Duchess of Sussex. \"I have never met Meghan Markle,\" he told the MailOnline. \"This seems like something of a faux pas by her. I have I have never met the duchess at all. I am the only South African member of the cast and I did not attend the premiere in London. \"The only South African was me playing Rafiki. But I did not go to the opening in Leicester Square as I didn't have the time to do that. It just may be a mis-remembering on her side. \"It is baffling me.\" Nelson Mandela’s grandson said he was “surprised” when he heard Ms Markle compare her wedding with Prince Harry to his grandfather being freed from prison. He said it “cannot be equated to as the same\". The Duchess of Sussex was met with heavy criticism online after she told the story to The Cut. \"The damage her and her husband are doing to the Queen and the Royal Family is incalculable... these two hypocritical, self-obsessed liars are in the end going to be ignored,\" said Nigel Farage"
+    "thumbnail_url": "https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/posts/86033/renewable-energy.jpg",
+    "image_url": "https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/posts/86033/renewable-energy.jpg",
+    "details": "The renewable energy sector in Bangladesh is increasingly becoming an attractive destination for both domestic and international investors. With a growing emphasis on sustainable development and reducing carbon emissions, the government is actively promoting investments in solar, wind, and other renewable energy sources. Several new projects are underway, and the regulatory framework is being streamlined to facilitate further growth in this sector. Analysts anticipate significant expansion in the renewable energy capacity of Bangladesh in the coming years, contributing to energy security and environmental sustainability. This growing investor interest underscores the immense potential of the renewable energy market in the country.",
+    "tags": [
+      "renewable energy",
+      "business",
+      "environment",
+      "investment",
+      "sustainability"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
     },
-    {
-      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "5",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-
-      "total_view": 100,
-      "title": "California to phase out sales of gas-powered cars",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-26 00:37:24",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
-      "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
-      "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+    "production": true
+  },
+  {
+    "id": "defabc9876543210defabc98",
+    "category_id": 2,
+    "title": "Bangladesh Aims to Diversify its Export Basket Beyond Garments",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
     },
-    {
-      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "4",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-
-      "total_view": 100,
-      "title": "“Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-26 00:37:24",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
-      "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
-      "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship over Ferrari’s Charles Leclerc ahead of the race. And at this rate, Max can cruise comfortably, to claim his 2nd Championship title this season. But Max does not want to lose his focus and momentum ahead of his home GP. He wants to claim his 10th win of the season in front of his home crowd in style. Recently, the Dutch GP unveiled a rather unique-looking trophy. And McLaren driver Lando Norris liked the new trophy.   a journalist asks lando if he likes the dutch gp trophy and if it will be his on sunday: “no, it’s max’s. everyone knows it’s max’s already. maybe max will give it to me, he has plenty.” i love lando norris and max verstappen friendship pic.twitter.com/LQh9cnwjLv — comfort lando norris (@safeforlando) August 31, 2022 The Brit was grabbing a bicycle in the F1 paddock when he was interviewed by Dutch press personnel. Norris was asked what he thought of the Dutch Grand Prix trophy. Norris replied, “Oh I loved it.” But he admitted he would not be able to take the trophy home. He said, “No, it’s Max’s. Everyone knows it’s Max’s already. Maybe he will give it to me, he has plenty.” Seems like Norris is not alone. As it is becoming more obvious amongst the drivers that the Dutch GP trophy has Max’s name written on it. And with a win this Sunday, even the Championship might have Max’s name for a second time. Also Read: Lando Norris hits out at Daniel Ricciardo amidst his $16.7 Million contract termination Max Verstappen unveils a new helmet for the Dutch GP Max Verstappen became the first Dutch driver to win an F1 race when he won the 2016 Spanish GP. He also became the first Dutchman to win the Championship title. And he would like to pay tribute to his father, Jos Verstappen who coached him during his karting days and developed him as a racing driver. Jos has also served as a manager for Max. Jos was an F1 driver who raced in F1 from 1994 to 2003. He has 106 race starts with no wins and he raced for a variety of teams from Benetton, Arrows, Tyrell and Honda. And for the Dutch GP, Max would be wearing a helmet that resembles the one worn by his father. He will be wearing it on a track on which he has raced numerous times while Karting with his father.   ᴀ ᴛʀɪʙᴜᴛᴇ ᴛᴏ ᴊᴏs ᴠᴇʀsᴛᴀᴘᴘᴇɴ Returning to Zandvoort as a World Champion, Max chose to honor his mentor and Dad by using Jos his iconic helmet design as an inspiration 1:2 and 1:4 scale models are now available https://t.co/SxY1Y14OH2 pic.twitter.com/tz2DdtXJM4 — Max Verstappen (@VerstappenCOM) August 30, 2022 Verstappen said in a video posted by him, “It’s a bit emotional as well. But I think it’s just really special to drive something like this because it’s also how I started in go-karting.” He added, “All the old pictures I have of go-karting are with this iconic design. So that’s why we thought it was a great idea to bring this back alive around Zandvoort.” Jos has never won a race in his F1 career. But wearing this helmet, Max might win his 10th race of the season and cement his name on the Championship trophy. Also Read: Max Verstappen can equalize Michael Schumacher-Sebastian Vettel joint record if he wins 4 more races in 2022 The post “Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy appeared first on The SportsRush."
-    }
-  ]
+    "total_view": 4321,
+    "author": {
+      "name": "Farida Yasmin",
+      "published_date": "2025-04-22T16:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/51.jpg"
+    },
+    "thumbnail_url": "https://lightcastlepartners.com/wp-content/uploads/2024/05/Ready-made-garments-exports-earning-and-its-contribution-to-economic-growth-in-Bangladesh-ezgif.com-jpg-to-webp-converter.webp",
+    "image_url": "https://lightcastlepartners.com/wp-content/uploads/2024/05/Ready-made-garments-exports-earning-and-its-contribution-to-economic-growth-in-Bangladesh-ezgif.com-jpg-to-webp-converter.webp",
+    "details": "The government of Bangladesh is actively pursuing strategies to diversify its export basket and reduce the country's heavy reliance on the readymade garments (RMG) sector. Efforts are being made to promote the export of other potential goods and services, including agricultural products, pharmaceuticals, and information technology. This diversification drive aims to enhance economic resilience and create new avenues for growth in the global market. Various policy initiatives and incentives are being considered to support the development and promotion of these non-traditional export sectors. The success of this diversification strategy is considered crucial for the long-term sustainable economic development of Bangladesh.",
+    "tags": ["exports", "economy", "business", "diversification", "trade"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "efabcd9876543210efabcd98",
+    "category_id": 2,
+    "title": "Concerns Raised Over Impact of Global Supply Chain Disruptions on Local Industries",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 5876,
+    "author": {
+      "name": "Zahidul Haque",
+      "published_date": "2025-04-22T16:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/27.jpg"
+    },
+    "thumbnail_url": "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2021/11/Containers.webp",
+    "image_url": "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2021/11/Containers.webp",
+    "details": "Local industries in Bangladesh are facing growing concerns regarding the potential impact of ongoing disruptions in the global supply chain. These disruptions, stemming from various international factors, are affecting the availability and cost of essential raw materials and components. Businesses are grappling with issues such as longer lead times and increased transportation expenses. Industry experts are analyzing the potential long-term consequences of these disruptions on the competitiveness and profitability of domestic manufacturers. Measures to enhance supply chain resilience and explore alternative sourcing options are being discussed among businesses and policymakers to mitigate the adverse effects of these global challenges on the local economy.",
+    "tags": ["supply chain", "business", "economy", "global", "disruption"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "abcdef0123456789abcdef0123",
+    "category_id": 3,
+    "title": "Programming Hero Announces New Advanced Web Development Bootcamp",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 6789,
+    "author": {
+      "name": "Jhankar Mahbub",
+      "published_date": "2025-04-22T18:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/85.jpg"
+    },
+    "thumbnail_url": "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/491880841_696014102971562_3005933071358310688_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGzmTL5B-AGde0K2UI00OsuOljhdnHK8lw6WOF2ccryXILDqNMfj6OhAqWfWsrqUTrouEiIx5ohs37Q_ixWDsY6&_nc_ohc=c53WZIYARg0Q7kNvwEL4ybp&_nc_oc=Adl6a0DdvTZm7m_D26xQQQ_7vkdUsNSvpqRP-_Nw7KH-W-Dak5G0D1-3fu2KKuoRP18&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=-m-kjdn9Mog6LmpUsE43ag&oh=00_AfFHTyQjUzleZLKBIyU81cDPTp69evtM74LwQPpTMzqDig&oe=680D94B3",
+    "image_url": "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/491880841_696014102971562_3005933071358310688_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGzmTL5B-AGde0K2UI00OsuOljhdnHK8lw6WOF2ccryXILDqNMfj6OhAqWfWsrqUTrouEiIx5ohs37Q_ixWDsY6&_nc_ohc=c53WZIYARg0Q7kNvwEL4ybp&_nc_oc=Adl6a0DdvTZm7m_D26xQQQ_7vkdUsNSvpqRP-_Nw7KH-W-Dak5G0D1-3fu2KKuoRP18&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=-m-kjdn9Mog6LmpUsE43ag&oh=00_AfFHTyQjUzleZLKBIyU81cDPTp69evtM74LwQPpTMzqDig&oe=680D94B3",
+    "details": "Programming Hero, a popular online coding education platform based in Bangladesh, has announced the launch of its new advanced web development bootcamp. The intensive program is designed for individuals looking to enhance their skills in modern web technologies, including React, Node.js, and advanced JavaScript frameworks. The bootcamp will feature experienced instructors, hands-on projects, and career guidance to prepare graduates for the competitive job market. With a focus on practical application and industry best practices, Programming Hero aims to empower aspiring developers in Bangladesh to excel in their careers. Enrollment for the new bootcamp is now open, with limited seats available to ensure personalized attention for all participants. The course is expected to commence in early May 2025.",
+    "tags": [
+      "programming hero",
+      "web development",
+      "bootcamp",
+      "education",
+      "technology"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "bcdef0123456789abcdef01234",
+    "category_id": 3,
+    "title": "BIDA and Tech Mahindra Partner to Attract Foreign Investment in Tech Sector",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 5678,
+    "author": {
+      "name": "Chowdhury Ashik Mahmud Bin Harun",
+      "published_date": "2025-04-22T17:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    "thumbnail_url": "https://investbangladesh.co/wp-content/uploads/2025/01/The-financial-analysis-paints-a-grim-picture-of-the-companys-performance-revealing-severe-weaknesses-across-liquidity-solvency-and-profitability-metrics.-Liquidity-ratios-are-alarmingly-low-s.jpg",
+    "image_url": "https://investbangladesh.co/wp-content/uploads/2025/01/The-financial-analysis-paints-a-grim-picture-of-the-companys-performance-revealing-severe-weaknesses-across-liquidity-solvency-and-profitability-metrics.-Liquidity-ratios-are-alarmingly-low-s.jpg",
+    "details": "The Bangladesh Investment Development Authority (BIDA) has announced a strategic partnership with Tech Mahindra, a global technology consulting and digital solutions company, to jointly promote Bangladesh as a prime destination for foreign investment in the technology sector. The collaboration will involve joint marketing efforts, investment roadshows, and the facilitation of business linkages between international tech companies and the burgeoning local tech ecosystem. BIDA aims to leverage Tech Mahindra's global network and expertise to attract more FDI in areas such as software development, IT services, and high-tech manufacturing. This partnership underscores the government's commitment to diversifying the economy and positioning Bangladesh as a hub for technological innovation and investment in South Asia. Several joint events are planned over the next quarter to showcase the opportunities available in Bangladesh's rapidly growing tech industry.",
+    "tags": [
+      "BIDA",
+      "Tech Mahindra",
+      "foreign investment",
+      "technology",
+      "partnership"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "cdef0123456789abcdef012345",
+    "category_id": 3,
+    "title": "Elon Musk's Starlink Receives Operational License in Bangladesh, Trials Begin",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 12345,
+    "author": {
+      "name": "Elon Musk",
+      "published_date": "2025-04-22T17:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/96.jpg"
+    },
+    "thumbnail_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/67f4b0a4bddf6-starlink-gets-licence-to-operate-in-bangladesh-photo-unsplash-081406853-16x9.jpg?size=948:533",
+    "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/67f4b0a4bddf6-starlink-gets-licence-to-operate-in-bangladesh-photo-unsplash-081406853-16x9.jpg?size=948:533",
+    "details": "Elon Musk's satellite internet service, Starlink, has officially received the operational license from the Bangladesh Telecommunication Regulatory Commission (BTRC) to begin services in the country. Following the approval from the Bangladesh Investment Development Authority (BIDA) last month, this marks a significant step towards providing high-speed internet access, particularly in remote and underserved areas of Bangladesh. Initial trials of the Starlink service are scheduled to commence this week, focusing on assessing the network performance and coverage across different regions. The entry of Starlink is expected to revolutionize internet connectivity, bridging the digital divide and enabling advancements in education, healthcare, and business sectors. Government officials and Starlink representatives are optimistic about the transformative impact of this technology on Bangladesh's digital infrastructure.",
+    "tags": ["Elon Musk", "Starlink", "internet", "satellite", "Bangladesh"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "def0123456789abcdef0123456",
+    "category_id": 3,
+    "title": "Bangladesh Aims for Self-Sufficiency in Semiconductor Manufacturing by 2035",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 4567,
+    "author": {
+      "name": "Zunaid Ahmed Palak",
+      "published_date": "2025-04-22T17:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/52.jpg"
+    },
+    "thumbnail_url": "https://industryinsiderbd.com/wp-content/uploads/2025/01/Semiconductor.jpg",
+    "image_url": "https://industryinsiderbd.com/wp-content/uploads/2025/01/Semiconductor.jpg",
+    "details": "The government of Bangladesh has announced an ambitious long-term goal to achieve self-sufficiency in semiconductor manufacturing by the year 2035. This initiative aims to reduce the country's reliance on foreign imports for critical electronic components and foster the growth of a high-tech manufacturing sector. Plans are underway to attract foreign investment and develop local expertise in semiconductor design and fabrication. This strategic move is envisioned to boost the electronics industry, create skilled jobs, and enhance Bangladesh's position in the global technology value chain. Feasibility studies and policy frameworks are currently being developed to outline the steps required to achieve this ambitious target over the next decade. Collaboration with international partners and technology transfer will be crucial aspects of this endeavor.",
+    "tags": [
+      "semiconductor",
+      "manufacturing",
+      "technology",
+      "government",
+      "economy"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "ef0123456789abcdef01234567",
+    "category_id": 3,
+    "title": "Bangladesh Launches National AI Strategy Focusing on Ethical Development and Application",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 7890,
+    "author": {
+      "name": "Sonia Bashir Kabir",
+      "published_date": "2025-04-22T17:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/61.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS76E9rl0Eekmf17ZaWawgsaN6okFZMlKMxQ&s",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS76E9rl0Eekmf17ZaWawgsaN6okFZMlKMxQ&s",
+    "details": "Bangladesh has unveiled its first National Artificial Intelligence (AI) Strategy, outlining a comprehensive roadmap for the ethical development and application of AI technologies across various sectors. The strategy emphasizes the importance of fostering innovation while addressing potential societal and ethical implications. Key focus areas include developing AI skills and talent, promoting research and development, creating a supportive regulatory environment, and encouraging the adoption of AI in sectors such as healthcare, education, agriculture, and governance. The strategy also highlights the need for ensuring data privacy, security, and fairness in AI systems. The government aims to collaborate with academia, industry, and international partners to effectively implement this national AI strategy and harness the transformative potential of artificial intelligence for the country's socio-economic progress.",
+    "tags": [
+      "AI",
+      "artificial intelligence",
+      "strategy",
+      "technology",
+      "ethics"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "01abcdef2345678901abcdef23",
+    "category_id": 3,
+    "title": "Bangladesh Making Strides in 5G Network Rollout Across Major Cities",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 9123,
+    "author": {
+      "name": "Raisa Kabir",
+      "published_date": "2025-04-22T17:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    "thumbnail_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2024/02/29/5G-9038023ef4a49a760d52281eeae3d76a.jpg?jadewits_media_id=15965",
+    "image_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2024/02/29/5G-9038023ef4a49a760d52281eeae3d76a.jpg?jadewits_media_id=15965",
+    "details": "Bangladesh is steadily advancing in the deployment of its 5G network infrastructure, with significant progress reported in major metropolitan areas. Telecommunication operators are actively expanding their 5G coverage, promising ultra-fast internet speeds and enhanced connectivity for both consumers and businesses. This technological advancement is expected to drive innovation across various sectors, including smart cities, healthcare, and industrial automation. The government has emphasized its commitment to fostering a robust digital ecosystem, and the 5G rollout is a key component of this vision. Ongoing trials and infrastructure upgrades are paving the way for wider accessibility and the realization of the full potential of 5G technology in the country.",
+    "tags": ["5G", "technology", "network", "telecom", "Bangladesh"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "23abcdef0145678923abcdef01",
+    "category_id": 3,
+    "title": "Local Tech Startups Secure Funding for Innovative AI and IoT Solutions",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 7890,
+    "author": {
+      "name": "Imtiaz Ahmed",
+      "published_date": "2025-04-22T17:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/62.jpg"
+    },
+    "thumbnail_url": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/09/13053157/Artificial-Intelligence-Applications-Development-Company-Thumbnail.png",
+    "image_url": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/09/13053157/Artificial-Intelligence-Applications-Development-Company-Thumbnail.png",
+    "details": "Several promising tech startups in Bangladesh have successfully secured significant funding rounds, primarily focused on developing cutting-edge solutions in the fields of Artificial Intelligence (AI) and the Internet of Things (IoT). These investments highlight the growing confidence in the local tech ecosystem and the potential for innovation-driven growth. The funded projects span a range of applications, from smart agriculture and healthcare to industrial automation and intelligent transportation systems. This influx of capital is expected to accelerate the development and deployment of these advanced technologies, contributing to the digital transformation of various sectors in Bangladesh and positioning the country as a rising player in the global tech landscape.",
+    "tags": ["tech startups", "AI", "IoT", "funding", "innovation"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "45abcdef0123678945abcdef01",
+    "category_id": 3,
+    "title": "Concerns Raised Over Data Privacy and Cybersecurity Amidst Increasing Digitalization",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 6543,
+    "author": {
+      "name": "Saima Rahman",
+      "published_date": "2025-04-22T17:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/38.jpg"
+    },
+    "thumbnail_url": "https://cdn1.expresscomputer.in/wp-content/uploads/2023/01/04170521/EC_Data_Security_Lock_750.jpg",
+    "image_url": "https://cdn1.expresscomputer.in/wp-content/uploads/2023/01/04170521/EC_Data_Security_Lock_750.jpg",
+    "details": "As Bangladesh embraces rapid digitalization across various sectors, growing concerns are being voiced regarding data privacy and cybersecurity. Experts are emphasizing the need for robust legal frameworks and stringent security measures to protect sensitive personal and organizational data. The increasing reliance on digital platforms and online transactions necessitates heightened awareness and proactive measures to mitigate the risks of data breaches and cyberattacks. Discussions are underway among policymakers, industry stakeholders, and cybersecurity professionals to formulate effective strategies for safeguarding digital assets and ensuring a secure online environment for all users. Strengthening cybersecurity infrastructure and promoting digital literacy are considered crucial steps in addressing these evolving challenges.",
+    "tags": [
+      "data privacy",
+      "cybersecurity",
+      "digitalization",
+      "technology",
+      "security"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "67abcdef0123458967abcdef01",
+    "category_id": 3,
+    "title": "Government Initiatives Promote Digital Transformation in Agriculture Sector",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 5432,
+    "author": {
+      "name": "Nazmul Haque",
+      "published_date": "2025-04-22T16:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/79.jpg"
+    },
+    "thumbnail_url": "https://eng.ruralvoice.in/uploads/images/2024/09/image_750x_66d864decc1a8.jpg",
+    "image_url": "https://eng.ruralvoice.in/uploads/images/2024/09/image_750x_66d864decc1a8.jpg",
+    "details": "The government of Bangladesh is actively promoting the digital transformation of the agriculture sector through various initiatives and programs. These efforts aim to enhance efficiency, productivity, and sustainability in farming practices by leveraging modern technologies such as mobile applications for crop management, remote sensing for monitoring field conditions, and data analytics for informed decision-making. The adoption of precision agriculture techniques and the use of digital platforms for market linkages are also being encouraged. These initiatives are expected to empower farmers with better access to information, resources, and markets, ultimately contributing to increased agricultural output and improved livelihoods for rural communities across the country.",
+    "tags": [
+      "agritech",
+      "technology",
+      "agriculture",
+      "digital transformation",
+      "innovation"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "89abcdef0123456789abcdef01",
+    "category_id": 3,
+    "title": "Bangladeshi Universities Launch New Programs in Emerging Technologies",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 4321,
+    "author": {
+      "name": "Farah Ahmed",
+      "published_date": "2025-04-22T16:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    "thumbnail_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/dten/2022/07/27/uiu-resized.jpeg",
+    "image_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/dten/2022/07/27/uiu-resized.jpeg",
+    "details": "Several universities across Bangladesh have recently introduced new academic programs focused on emerging technologies such as artificial intelligence, machine learning, data science, and cybersecurity. These initiatives reflect a growing recognition of the importance of equipping the next generation with the skills required to thrive in the rapidly evolving digital landscape. The new programs aim to bridge the gap between academic learning and industry demands, fostering a skilled workforce capable of driving innovation and contributing to the country's technological advancement. Collaborations with tech companies and research institutions are also being emphasized to provide students with practical experience and exposure to real-world challenges in these cutting-edge fields.",
+    "tags": ["education", "technology", "AI", "data science", "cybersecurity"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "f7abcd0123456789f7abcd0123",
+    "category_id": 4,
+    "title": "Breakthrough in Affordable Dialysis Treatment Developed by Local Researchers",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 10234,
+    "author": {
+      "name": "Dr. Anika Rahman",
+      "published_date": "2025-04-22T19:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/77.jpg"
+    },
+    "thumbnail_url": "https://i0.wp.com/nephroplus.com/wp-content/uploads/2022/08/safety-and-comfort.png?fit=604%2C471&ssl=1",
+    "image_url": "https://i0.wp.com/nephroplus.com/wp-content/uploads/2022/08/safety-and-comfort.png?fit=604%2C471&ssl=1",
+    "details": "Researchers at a prominent medical institute in Bangladesh have announced a significant breakthrough in developing a more affordable and accessible dialysis treatment for patients suffering from kidney failure. The newly developed method utilizes locally sourced materials and a simplified process, potentially reducing the cost of dialysis significantly. Initial trials have shown promising results, offering hope to a large number of patients who currently struggle to afford the life-saving treatment. The research team is now working on scaling up production and conducting further clinical trials to ensure the widespread availability and efficacy of this innovative approach. This development has the potential to transform kidney care in Bangladesh and other low-resource settings.",
+    "tags": ["dialysis", "health", "kidney failure", "treatment", "research"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "abf7cd0123456789abf7cd01234",
+    "category_id": 4,
+    "title": "Public Health Experts Warn Against Rising Antibiotic Resistance",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 7890,
+    "author": {
+      "name": "Professor Salimuzzaman",
+      "published_date": "2025-04-22T18:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/25.jpg"
+    },
+    "thumbnail_url": "https://www.modern-momsa.co.za/wp-content/uploads/2024/11/image001.jpg",
+    "image_url": "https://www.modern-momsa.co.za/wp-content/uploads/2024/11/image001.jpg",
+    "details": "Public health experts in Bangladesh are raising concerns about the increasing prevalence of antibiotic resistance, which poses a significant threat to the effective treatment of common infections. The overuse and misuse of antibiotics in both human and animal healthcare are identified as key contributing factors to this growing problem. Experts are advocating for stricter regulations on antibiotic prescriptions, public awareness campaigns on the responsible use of antibiotics, and enhanced surveillance of antibiotic-resistant bacteria. Failure to address this issue could lead to a situation where many bacterial infections become untreatable, increasing morbidity and mortality rates. Collaborative efforts involving healthcare professionals, policymakers, and the public are crucial to combat the rise of antibiotic resistance.",
+    "tags": [
+      "antibiotic resistance",
+      "health",
+      "public health",
+      "bacteria",
+      "drugs"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "baf7dc0123456789baf7dc012345",
+    "category_id": 4,
+    "title": "Initiatives Launched to Improve Maternal and Child Health in Rural Areas",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 9123,
+    "author": {
+      "name": "Dr. Laila Karim",
+      "published_date": "2025-04-22T18:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/93.jpg"
+    },
+    "thumbnail_url": "https://bangladesh.unfpa.org/sites/default/files/styles/original/public/news/popy_2-3.webp?itok=9SpECxV7",
+    "image_url": "https://bangladesh.unfpa.org/sites/default/files/styles/original/public/news/popy_2-3.webp?itok=9SpECxV7",
+    "details": "Several new initiatives have been launched across Bangladesh with the aim of improving maternal and child health outcomes in rural and underserved areas. These programs focus on enhancing access to quality antenatal care, safe delivery practices, postnatal support, and child immunization services. Community health workers are being trained and equipped to provide essential healthcare services and health education at the grassroots level. Telemedicine platforms are also being utilized to connect rural patients with specialist doctors in urban centers. These concerted efforts by the government and non-governmental organizations aim to reduce maternal and infant mortality rates and ensure better health and well-being for women and children in remote regions of the country.",
+    "tags": [
+      "maternal health",
+      "child health",
+      "rural health",
+      "healthcare",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "cbf7ed0123456789cbf7ed0123456",
+    "category_id": 4,
+    "title": "Experts Advocate for Increased Investment in Cancer Research and Treatment Facilities",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 8234,
+    "author": {
+      "name": "Dr. Abu Taher",
+      "published_date": "2025-04-22T18:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/58.jpg"
+    },
+    "thumbnail_url": "https://uhapo.co.in/wp-content/uploads/2023/12/cancer-treatment-advocate.jpg",
+    "image_url": "https://uhapo.co.in/wp-content/uploads/2023/12/cancer-treatment-advocate.jpg",
+    "details": "Leading oncologists and health policy experts in Bangladesh are strongly advocating for increased investment in cancer research and the development of advanced treatment facilities across the country. With a rising incidence of various forms of cancer, there is a growing need for improved diagnostic capabilities, more accessible treatment options, and enhanced palliative care services. Experts emphasize that greater funding for research is crucial to understanding the local epidemiology of cancer and developing tailored treatment approaches. Strengthening existing cancer treatment centers and establishing new, well-equipped facilities are also essential to provide timely and quality care to patients. Increased public awareness campaigns on cancer prevention and early detection are also deemed vital in the fight against this growing health burden.",
+    "tags": ["cancer", "health", "research", "treatment", "investment"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "dcf7be0123456789dcf7be01234567",
+    "category_id": 4,
+    "title": "Efforts Underway to Improve Access to Clean Drinking Water and Sanitation",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 6789,
+    "author": {
+      "name": "Rehana Begum",
+      "published_date": "2025-04-22T18:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    "thumbnail_url": "https://today.thefinancialexpress.com.bd/uploads/1668344716.jpg",
+    "image_url": "https://today.thefinancialexpress.com.bd/uploads/1668344716.jpg",
+    "details": "The government and various non-governmental organizations are continuing their concerted efforts to improve access to clean drinking water and sanitation facilities across Bangladesh, particularly in rural and marginalized communities. Initiatives include the installation of new water purification systems, the construction of sanitary latrines, and the implementation of hygiene education programs. Ensuring access to safe water and proper sanitation is crucial for preventing waterborne diseases and improving overall public health. Challenges remain in reaching all populations, and sustained investment and community participation are essential for achieving universal access. Progress is being monitored closely to meet national and international development goals related to water and sanitation.",
+    "tags": [
+      "clean water",
+      "sanitation",
+      "health",
+      "government",
+      "public health"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "012345s7abcdef89012345s7a1",
+    "category_id": 5,
+    "title": "Bangladesh National Football Team Prepares for Upcoming International Friendly",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 13456,
+    "author": {
+      "name": "Mahmud Hasan",
+      "published_date": "2025-04-22T19:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/91.jpg"
+    },
+    "thumbnail_url": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/08/07/screenshot_2023-08-07_234956.png",
+    "image_url": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/08/07/screenshot_2023-08-07_234956.png",
+    "details": "The Bangladesh national football team is currently undergoing intensive training in preparation for their upcoming international friendly match. The coach has emphasized tactical drills and physical conditioning to ensure the team is in peak form for the encounter. Fans are eagerly anticipating the match as it will provide a crucial opportunity to assess the team's progress and identify areas for improvement ahead of future competitive tournaments. The venue and opponent for the friendly are expected to be announced shortly, generating further excitement among supporters. The team is determined to put on a strong performance and secure a positive result in this important preparatory fixture.",
+    "tags": ["football", "sports", "Bangladesh", "national team", "friendly"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "bcdefa7s123458901bcdefa7s123",
+    "category_id": 5,
+    "title": "Bangladesh Cricket Board Announces Domestic League Schedule",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 11789,
+    "author": {
+      "name": "Ismail Hossain",
+      "published_date": "2025-04-22T19:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/17.jpg"
+    },
+    "thumbnail_url": "https://img.cricketworld.com/images/e-145767/bangladesh-t20-national-league-2024.jpg",
+    "image_url": "https://img.cricketworld.com/images/e-145767/bangladesh-t20-national-league-2024.jpg",
+    "details": "The Bangladesh Cricket Board (BCB) has officially released the schedule for the upcoming domestic cricket league season. The tournament is expected to feature several prominent national and emerging cricketers, providing a platform for showcasing talent and fostering competition at the domestic level. Fans can look forward to an action-packed season with matches played across various venues in the country. The league is considered crucial for identifying future national team prospects and strengthening the overall cricket infrastructure in Bangladesh. Details regarding team compositions and broadcast schedules will be announced in the coming days, building anticipation for the start of the league.",
+    "tags": ["cricket", "sports", "Bangladesh", "BCB", "domestic league"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "cdefab1s723456901cdefab1s7234",
+    "category_id": 5,
+    "title": "Bangladeshi Athlete Wins Gold Medal at International Athletics Championship",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 15234,
+    "author": {
+      "name": "Sabrina Akter",
+      "published_date": "2025-04-22T18:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/64.jpg"
+    },
+    "thumbnail_url": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2023/02/12/imranur.jpg",
+    "image_url": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2023/02/12/imranur.jpg",
+    "details": "A talented athlete from Bangladesh has made the nation proud by winning a gold medal at a prestigious international athletics championship. The athlete's remarkable performance in their respective discipline has brought accolades and recognition to Bangladesh in the global sporting arena. This achievement is a testament to the dedication, hard work, and talent of Bangladeshi athletes and the growing standards of sports in the country. The nation celebrates this significant victory, which is expected to inspire more young people to pursue their dreams in sports. Details about the specific event and the athlete's achievement are being widely reported across national media, highlighting this moment of national pride.",
+    "tags": ["athletics", "sports", "gold medal", "champion", "Bangladesh"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "defabc7s123450123defabc7s12345",
+    "category_id": 5,
+    "title": "Bangladesh Hockey Federation Announces New Coaching Staff for National Team",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 9876,
+    "author": {
+      "name": "Aminul Islam Khan",
+      "published_date": "2025-04-22T18:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/39.jpg"
+    },
+    "thumbnail_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/dten/2016/10/3-26.jpg",
+    "image_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/dten/2016/10/3-26.jpg",
+    "details": "The Bangladesh Hockey Federation has announced a reshuffle in the coaching staff for the national hockey team. A new head coach and several assistant coaches have been appointed as the federation aims to inject fresh strategies and perspectives into the team's preparation for upcoming international competitions. The changes are part of a broader effort to elevate the performance of the national hockey team and improve their standing in Asian hockey. The newly appointed coaching staff brings a wealth of experience and expertise, and their tenure is highly anticipated by players and fans alike. The federation is optimistic that these changes will lead to positive results in future tournaments and contribute to the growth of hockey in Bangladesh.",
+    "tags": ["hockey", "sports", "Bangladesh", "national team", "coaching"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "efabcd1s723456012efabcd1s723456",
+    "category_id": 5,
+    "title": "Local Football Club Secures Major Sponsorship Deal for Upcoming Season",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 10567,
+    "author": {
+      "name": "Nadia Zaman",
+      "published_date": "2025-04-22T18:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/87.jpg"
+    },
+    "thumbnail_url": "https://i0.wp.com/financefootball.com/wp-content/uploads/2024/08/sponsor_jerseys.jpg?w=1280&ssl=1",
+    "image_url": "https://i0.wp.com/financefootball.com/wp-content/uploads/2024/08/sponsor_jerseys.jpg?w=1280&ssl=1",
+    "details": "A prominent local football club in Bangladesh has announced a significant sponsorship deal with a major corporation for the upcoming football season. This financial boost is expected to provide the club with the resources needed to strengthen its squad, improve training facilities, and enhance its overall operations. The sponsorship agreement underscores the growing commercial interest in Bangladeshi football and the potential for clubs to attract substantial investment. Both the club management and the sponsor have expressed enthusiasm about the partnership and its potential to contribute to the development of football in the region. Fans are hopeful that this new sponsorship will translate into on-field success for the club in the upcoming season.",
+    "tags": ["football", "sports", "Bangladesh", "sponsorship", "local club"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "f7abcd0s123456789f7abcd0s123",
+    "category_id": 5,
+    "title": "Bangladeshi Shuttlers Aim for Top Rankings in Badminton Asia Championships",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 8901,
+    "author": {
+      "name": "Rashid Khan",
+      "published_date": "2025-04-22T19:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/74.jpg"
+    },
+    "thumbnail_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/12/17/fads1883.jpg",
+    "image_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/12/17/fads1883.jpg",
+    "details": "A contingent of talented badminton players from Bangladesh is gearing up to participate in the upcoming Badminton Asia Championships. The shuttlers have been undergoing rigorous training to compete against top-ranked players from across the continent. Their participation in this prestigious tournament is a significant step towards elevating the profile of badminton in Bangladesh and achieving higher international rankings. The players have expressed their determination to perform their best and gain valuable experience from competing at such a high level. The nation's badminton enthusiasts are optimistic about their chances and are sending their best wishes for a successful campaign in the championships.",
+    "tags": [
+      "badminton",
+      "sports",
+      "Bangladesh",
+      "Asia Championships",
+      "ranking"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "abf7cds123456789abf7cds1234",
+    "category_id": 5,
+    "title": "Local Cyclists Prepare for National Championship Race",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 6543,
+    "author": {
+      "name": "Momena Begum",
+      "published_date": "2025-04-22T19:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/49.jpg"
+    },
+    "thumbnail_url": "https://www.timesrecordnews.com/gcdn/presto/2019/08/25/PWTR/898bd236-8fe5-4ce1-9eb8-6346348361ae-HHH_GravaDelFuego1.jpg?crop=3751,2110,x0,y341&width=660&height=372&format=pjpg&auto=webp",
+    "image_url": "https://www.timesrecordnews.com/gcdn/presto/2019/08/25/PWTR/898bd236-8fe5-4ce1-9eb8-6346348361ae-HHH_GravaDelFuego1.jpg?crop=3751,2110,x0,y341&width=660&height=372&format=pjpg&auto=webp",
+    "details": "Dedicated cyclists from various parts of Bangladesh are currently engaged in intense training as they prepare for the upcoming National Cycling Championship race. This annual event is a highlight in the national cycling calendar, attracting top talent from across the country. The cyclists are focusing on endurance, speed, and strategic race techniques to compete for the coveted national titles in different categories. Cycling enthusiasts and local communities are eagerly anticipating the event, which is expected to showcase the growing popularity and skill level in the sport within Bangladesh. The routes and schedule for the championship race will be announced shortly by the Bangladesh Cycling Federation.",
+    "tags": [
+      "cycling",
+      "sports",
+      "Bangladesh",
+      "national championship",
+      "race"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "baf7des123456789baf7des12345",
+    "category_id": 5,
+    "title": "Bangladesh Women's Cricket Team Gears Up for T20 Series",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 10123,
+    "author": {
+      "name": "Nazmul Hossain Shanto",
+      "published_date": "2025-04-22T19:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/65.jpg"
+    },
+    "thumbnail_url": "https://womencricket.com/wp-content/uploads/2024/09/Bangladesh-squad-for-Womens-T20-World-Cup-2024.webp",
+    "image_url": "https://womencricket.com/wp-content/uploads/2024/09/Bangladesh-squad-for-Womens-T20-World-Cup-2024.webp",
+    "details": "The Bangladesh women's national cricket team is actively preparing for an upcoming T20 international series. The players are undergoing rigorous training sessions focusing on batting, bowling, and fielding skills, as well as strategic game planning for the fast-paced format. The team is aiming to build on their recent performances and achieve success in the upcoming series. Fans are showing strong support for the Tigresses, hoping for an exciting and victorious campaign. Details regarding the opponent and the match schedule are expected to be released soon by the Bangladesh Cricket Board (BCB), generating anticipation among cricket followers across the nation.",
+    "tags": ["cricket", "sports", "Bangladesh", "women's cricket", "T20"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "012345e7abcdef89012345e7ab",
+    "category_id": 6,
+    "title": "Popular Bangladeshi Drama Series Finale Airs Tonight, Fans Eager for Conclusion",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 18765,
+    "author": {
+      "name": "Farah Naznin",
+      "published_date": "2025-04-22T19:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/52.jpg"
+    },
+    "thumbnail_url": ".",
+    "image_url": ".",
+    "details": "Tonight marks the highly anticipated finale of a widely popular Bangladeshi television drama series that has captivated audiences across the nation for the past several months. Fans have been eagerly awaiting the conclusion of the compelling storyline and the fate of their favorite characters. Social media platforms are abuzz with predictions and discussions about the final episode, highlighting the show's significant cultural impact and widespread appeal. The cast and crew have expressed their gratitude for the overwhelming support from viewers. Entertainment critics are also weighing in on the series' success and its contribution to the local television industry. The finale is expected to draw a massive viewership, solidifying the drama's place as a landmark production in Bangladeshi television history.",
+    "tags": [
+      "entertainment",
+      "drama series",
+      "television",
+      "finale",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "bcdefa7e123458901bcdefa7e123",
+    "category_id": 6,
+    "title": "Celebrated Bangladeshi Musician Announces Nationwide Concert Tour",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 14321,
+    "author": {
+      "name": "Arnob Zahid",
+      "published_date": "2025-04-22T19:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/37.jpg"
+    },
+    "thumbnail_url": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/images/2025/03/29/486283312_4854583331433797_1658207744142557519_n_1.jpg",
+    "image_url": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/images/2025/03/29/486283312_4854583331433797_1658207744142557519_n_1.jpg",
+    "details": "A celebrated and beloved musician from Bangladesh has announced an upcoming nationwide concert tour, much to the delight of fans across the country. The tour is scheduled to cover major cities and towns, offering a wide audience the opportunity to experience the artist's iconic music live. This highly anticipated series of performances is expected to feature a mix of classic hits and new releases, showcasing the musician's enduring contribution to the Bangladeshi music scene. Ticket sales are set to begin soon, and organizers anticipate a high demand given the artist's immense popularity. The tour is being hailed as a significant cultural event, bringing together music lovers from all walks of life to celebrate the rich musical heritage of Bangladesh.",
+    "tags": ["entertainment", "music", "concert tour", "artist", "Bangladesh"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "cdefab1e723456901cdefab1e7234",
+    "category_id": 6,
+    "title": "Bangladeshi Film Festival Showcases Emerging Talents and Independent Cinema",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 11876,
+    "author": {
+      "name": "Nusrat Amin",
+      "published_date": "2025-04-22T19:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/28.jpg"
+    },
+    "thumbnail_url": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2023/06/09/352001949_943465060295562_3232606149780680309_n.jpg",
+    "image_url": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2023/06/09/352001949_943465060295562_3232606149780680309_n.jpg",
+    "details": "The annual Bangladeshi Film Festival is currently underway, showcasing a diverse selection of films from both established directors and emerging talents in the independent cinema scene. The festival provides a platform for filmmakers to share their unique stories and perspectives with a wider audience, fostering creativity and innovation within the industry. This year's lineup features a range of genres, including drama, documentary, and experimental films, reflecting the rich and evolving narrative landscape of Bangladeshi cinema. The festival also includes workshops, panel discussions, and networking events, creating opportunities for filmmakers to connect and collaborate. It serves as an important cultural event, celebrating the art of filmmaking and promoting the growth of independent cinema in Bangladesh.",
+    "tags": [
+      "entertainment",
+      "film festival",
+      "cinema",
+      "independent film",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "defabc7e123450123defabc7e12345",
+    "category_id": 6,
+    "title": "Controversial Reality Show Faces Backlash Over Ethical Concerns",
+    "rating": {
+      "number": 2,
+      "badge": "trending"
+    },
+    "total_view": 9543,
+    "author": {
+      "name": "Tanvir Hossain",
+      "published_date": "2025-04-22T19:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/55.jpg"
+    },
+    "thumbnail_url": "https://www.shutterstock.com/image-vector/editable-reality-show-text-effecttyphography-260nw-2454488881.jpg",
+    "image_url": "https://www.shutterstock.com/image-vector/editable-reality-show-text-effecttyphography-260nw-2454488881.jpg",
+    "details": "A popular but controversial reality television show in Bangladesh is currently facing significant backlash from viewers and critics alike due to growing ethical concerns surrounding its content and production practices. Allegations of manipulation, exploitation of participants, and the creation of artificial drama have surfaced, leading to widespread debate on social media and calls for the show to be reviewed or even taken off the air. Several prominent figures in the entertainment industry and social activists have voiced their disapproval, highlighting the potential negative impact of such programming on audiences. The broadcasting channel has yet to issue a formal response to the mounting criticism, leaving many to speculate about the future of the show and the broader implications for ethical standards in Bangladeshi reality television.",
+    "tags": [
+      "entertainment",
+      "reality show",
+      "controversy",
+      "ethics",
+      "television"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "e7abcd0123456789e7abcd01234",
+    "category_id": 6,
+    "title": "Bangladeshi Author's New Novel Garners International Acclaim",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 12567,
+    "author": {
+      "name": "Tahmima Anam",
+      "published_date": "2025-04-22T19:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/11.jpg"
+    },
+    "thumbnail_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/02/24/lit.jpg",
+    "image_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/02/24/lit.jpg",
+    "details": "The latest novel by a celebrated Bangladeshi author has received widespread critical acclaim on the international literary scene. The book, which explores themes of identity, displacement, and resilience, has been praised for its powerful storytelling, evocative prose, and insightful portrayal of human experiences. Reviews in major international publications have lauded the author's unique voice and the novel's significant contribution to contemporary literature. This international recognition not only brings honor to the author but also highlights the rich literary talent emerging from Bangladesh. Discussions and translations of the novel are expected to further expand its reach to a global readership, showcasing the diverse narratives and artistic excellence of Bangladeshi writers.",
+    "tags": [
+      "entertainment",
+      "literature",
+      "novel",
+      "author",
+      "international acclaim"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "f7abcde123456789f7abcde12345",
+    "category_id": 6,
+    "title": "Stand-Up Comedy Scene Thriving in Dhaka, New Talents Emerging",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 9876,
+    "author": {
+      "name": "Naved Mahbub",
+      "published_date": "2025-04-22T19:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/88.jpg"
+    },
+    "thumbnail_url": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/images/2025/04/08/collected_img_4803_2.jpg",
+    "image_url": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/images/2025/04/08/collected_img_4803_2.jpg",
+    "details": "The stand-up comedy scene in Dhaka is experiencing a vibrant period of growth, with numerous new talents emerging and captivating audiences with their unique styles and perspectives. Open mic nights and comedy shows are becoming increasingly popular, providing a platform for both seasoned comedians and newcomers to showcase their skills. The growing interest in stand-up comedy reflects a shift in the local entertainment landscape, with audiences seeking fresh and relatable humor. Venues across the city are hosting regular comedy events, contributing to the development of a thriving comedy culture in Bangladesh's capital. This burgeoning scene is not only providing entertainment but also fostering a space for social commentary and creative expression.",
+    "tags": ["entertainment", "comedy", "stand-up", "Dhaka", "culture"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "abf7cde123456789abf7cde123456",
+    "category_id": 6,
+    "title": "Bangladeshi Short Film Wins Award at International Festival",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 11234,
+    "author": {
+      "name": "Meher Afroz Shaon",
+      "published_date": "2025-04-22T19:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/39.jpg"
+    },
+    "thumbnail_url": "https://outspoken.newagebd.com/files/img/202502/c60ec5830d52c4bcc8da9bb07c5de7bc.jpeg",
+    "image_url": "https://outspoken.newagebd.com/files/img/202502/c60ec5830d52c4bcc8da9bb07c5de7bc.jpeg",
+    "details": "A compelling short film from Bangladesh has garnered international recognition by winning a prestigious award at a renowned international film festival. The film, praised for its poignant narrative and skillful execution, has resonated with audiences and critics alike. This achievement highlights the growing talent and creativity within the Bangladeshi film industry and its potential to make a significant impact on the global cinematic stage. The award is expected to open up new opportunities for the filmmakers and further showcase the diverse stories and artistic capabilities of Bangladeshi cinema to a wider international audience. The film's success is being celebrated within the local film community as a testament to the quality and potential of short-form storytelling from Bangladesh.",
+    "tags": [
+      "entertainment",
+      "short film",
+      "film festival",
+      "award",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "012345s7abcdef89012345s7ab",
+    "category_id": 7,
+    "title": "Bangladeshi Scientists Discover Novel Gene Linked to Plant Disease Resistance",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 7890,
+    "author": {
+      "name": "Dr. Farhana Alam",
+      "published_date": "2025-04-22T20:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/71.jpg"
+    },
+    "thumbnail_url": "https://www.mdpi.com/plants/plants-13-02737/article_deploy/html/images/plants-13-02737-g001.png",
+    "image_url": "https://www.mdpi.com/plants/plants-13-02737/article_deploy/html/images/plants-13-02737-g001.png",
+    "details": "A team of Bangladeshi scientists has made a significant breakthrough in agricultural science by identifying a novel gene in local plant species that exhibits strong resistance to a prevalent disease affecting crops. This discovery holds immense potential for developing disease-resistant crop varieties through genetic modification or selective breeding, which could significantly enhance agricultural productivity and food security in Bangladesh. The researchers have published their findings in a peer-reviewed scientific journal, garnering attention from the international scientific community. Further research is underway to fully understand the gene's function and explore its applications in improving the resilience of various staple crops against common plant pathogens. This advancement underscores the growing capabilities of Bangladeshi scientists in contributing to global agricultural innovation.",
+    "tags": ["science", "biology", "genetics", "agriculture", "research"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "bcdefa7s123458901bcdefa7s121",
+    "category_id": 7,
+    "title": "Archaeological Excavation Uncovers Ancient Civilization Site in Northern Bangladesh",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 9123,
+    "author": {
+      "name": "Dr. Jamal Hossain",
+      "published_date": "2025-04-22T19:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/43.jpg"
+    },
+    "thumbnail_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/12/14/crown-jewels-of-bengal-8.jpg",
+    "image_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/12/14/crown-jewels-of-bengal-8.jpg",
+    "details": "A significant archaeological excavation in the northern region of Bangladesh has unearthed the remnants of a previously unknown ancient civilization. The discovery includes well-preserved architectural structures, pottery, and artifacts, providing valuable insights into the history and cultural heritage of the area. Archaeologists believe the site dates back several centuries and could potentially rewrite aspects of the region's early history. The findings are currently being carefully analyzed and documented by a team of experts. The government has announced plans to preserve the site and conduct further research to fully understand the significance of this remarkable discovery, which is expected to attract considerable interest from historians and researchers worldwide.",
+    "tags": ["science", "archaeology", "history", "civilization", "Bangladesh"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "cdefab1s723456901cdefab1s7232",
+    "category_id": 7,
+    "title": "Bangladeshi Physicists Contribute to International Research on Dark Matter",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 6543,
+    "author": {
+      "name": "Dr. Shamima Chowdhury",
+      "published_date": "2025-04-22T19:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    "thumbnail_url": "https://news.mit.edu/sites/default/files/images/202409/MIT_Mars-Wobble-01-PRESS.jpg",
+    "image_url": "https://news.mit.edu/sites/default/files/images/202409/MIT_Mars-Wobble-01-PRESS.jpg",
+    "details": "A team of physicists from a leading university in Bangladesh has made valuable contributions to an international collaborative research project focused on understanding the elusive phenomenon of dark matter. Their work involves analyzing data from sophisticated particle detectors and developing theoretical models to shed light on the nature and properties of this mysterious substance that makes up a significant portion of the universe's mass. The Bangladeshi scientists' involvement in this cutting-edge research highlights the growing expertise in fundamental physics within the country and their ability to contribute to global scientific advancements. The findings of the collaborative project are expected to be published in a high-impact physics journal, further solidifying the team's contribution to the field.",
+    "tags": ["science", "physics", "astronomy", "dark matter", "research"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "defabc7s123450123defabc7s12344",
+    "category_id": 7,
+    "title": "Environmental Scientists Study Impact of Climate Change on Coastal Ecosystems in Bangladesh",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 8234,
+    "author": {
+      "name": "Dr. Anisul Haque",
+      "published_date": "2025-04-22T19:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/59.jpg"
+    },
+    "thumbnail_url": "https://media.licdn.com/dms/image/v2/D5612AQEVc7-GJJYhBg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685640246972?e=2147483647&v=beta&t=f7hge4YAWV65gqIoYMAaLzRFZ7dNOwat9v_bX7_LIYg",
+    "image_url": "https://media.licdn.com/dms/image/v2/D5612AQEVc7-GJJYhBg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685640246972?e=2147483647&v=beta&t=f7hge4YAWV65gqIoYMAaLzRFZ7dNOwat9v_bX7_LIYg",
+    "details": "A team of environmental scientists in Bangladesh is conducting extensive research on the impact of climate change on the fragile coastal ecosystems of the country. Their study focuses on the effects of rising sea levels, increased salinity, and extreme weather events on mangrove forests, biodiversity, and local communities. The researchers are employing advanced monitoring techniques and data analysis to assess the vulnerability of these ecosystems and develop strategies for adaptation and conservation. Their findings are crucial for informing policy decisions aimed at mitigating the adverse effects of climate change on Bangladesh's coastal regions and protecting the livelihoods of the millions of people who depend on these vital natural resources. The study's results are expected to contribute significantly to the understanding of climate change impacts in low-lying deltaic regions globally.",
+    "tags": [
+      "science",
+      "environment",
+      "climate change",
+      "ecology",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "efabcd1s723456012efabcd1s723454",
+    "category_id": 7,
+    "title": "Researchers Develop Innovative Biodegradable Packaging Material from Jute Fibers",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 10567,
+    "author": {
+      "name": "Dr. Rina Khan",
+      "published_date": "2025-04-22T19:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/24.jpg"
+    },
+    "thumbnail_url": "https://today.thefinancialexpress.com.bd/uploads/1735054377.jpg",
+    "image_url": "https://today.thefinancialexpress.com.bd/uploads/1735054377.jpg",
+    "details": "Scientists in Bangladesh have successfully developed an innovative and environmentally friendly biodegradable packaging material derived from jute fibers. This research offers a sustainable alternative to traditional plastic packaging, addressing growing concerns about plastic pollution and its impact on the environment. The newly developed material exhibits promising strength and durability, making it suitable for a wide range of packaging applications. The researchers are now focusing on optimizing the production process and exploring its commercial viability. This breakthrough not only provides an eco-friendly solution but also has the potential to boost the jute industry in Bangladesh by creating new avenues for the utilization of this natural fiber. The development is being hailed as a significant step towards promoting sustainable practices and reducing reliance on non-biodegradable materials.",
+    "tags": [
+      "science",
+      "materials science",
+      "environment",
+      "jute",
+      "sustainability"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "f7abcd0s123456789f7abcd0s121",
+    "category_id": 7,
+    "title": "Bangladeshi Mathematicians Solve Long-Standing Problem in Number Theory",
+    "rating": {
+      "number": 5,
+      "badge": "excellent"
+    },
+    "total_view": 5432,
+    "author": {
+      "name": "Professor Salim Ahmed",
+      "published_date": "2025-04-22T20:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    "thumbnail_url": "https://images.shiksha.com/mediadata/images/articles/1740904479phpiAzTRD.jpeg",
+    "image_url": "https://images.shiksha.com/mediadata/images/articles/1740904479phpiAzTRD.jpeg",
+    "details": "A team of mathematicians from Bangladesh has achieved a significant breakthrough by solving a long-standing problem in the field of number theory. This complex mathematical puzzle has puzzled researchers for decades, and the elegant solution provided by the Bangladeshi team is being lauded by the international mathematical community. Their findings have been rigorously reviewed and are set to be published in a leading mathematics journal. This achievement underscores the high caliber of mathematical research being conducted in Bangladesh and is expected to inspire the next generation of mathematicians in the country. The solution has potential implications for various fields, including cryptography and computer science.",
+    "tags": [
+      "science",
+      "mathematics",
+      "number theory",
+      "research",
+      "breakthrough"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "e7abcd0p123456789e7abcd0p1234",
+    "category_id": 8,
+    "title": "Dr. Muhammad Yunus Calls for Social Business Initiatives to Combat Poverty",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 11234,
+    "author": {
+      "name": "Dr. Muhammad Yunus",
+      "published_date": "2025-04-22T20:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/61.jpg"
+    },
+    "thumbnail_url": "https://encdn.bd-pratidin.com/public/news_images/2025/02/11/1739252245-9f321b93650f26f5d3aeade74457289d.jpg",
+    "image_url": "https://encdn.bd-pratidin.com/public/news_images/2025/02/11/1739252245-9f321b93650f26f5d3aeade74457289d.jpg",
+    "details": "Dr. Muhammad Yunus, Nobel Peace Prize laureate and pioneer of microcredit, has renewed his call for the promotion of social business initiatives to address poverty and social inequality in Bangladesh. During a recent address, he emphasized the importance of enterprises that prioritize social impact over profit maximization. He highlighted several successful examples of social businesses that have positively transformed communities and urged the government and private sector to invest more in such ventures. Dr. Yunus believes that social businesses can play a crucial role in creating sustainable solutions to pressing social problems, fostering economic empowerment, and building a more inclusive society. His advocacy continues to inspire entrepreneurs and policymakers to explore innovative approaches to development.",
+    "tags": [
+      "politics",
+      "social business",
+      "Dr. Muhammad Yunus",
+      "poverty",
+      "development"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "abf7cds123456789abf7cds1233",
+    "category_id": 7,
+    "title": "Study Reveals New Insights into Bird Migration Patterns in Bangladesh",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 6789,
+    "author": {
+      "name": "Dr. Naima Rahman",
+      "published_date": "2025-04-22T20:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/69.jpg"
+    },
+    "thumbnail_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2022/10/08/whatsapp_image_2022-10-08_at_7.06.14_pm.jpeg",
+    "image_url": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2022/10/08/whatsapp_image_2022-10-08_at_7.06.14_pm.jpeg",
+    "details": "A comprehensive study conducted by ornithologists in Bangladesh has provided new and valuable insights into the migration patterns of various bird species that pass through or reside in the country. By utilizing advanced tracking technologies and long-term observation data, the researchers have uncovered previously unknown migratory routes, stopover sites, and breeding grounds. This information is crucial for conservation efforts aimed at protecting these bird populations and their habitats, which are facing increasing threats from habitat loss and climate change. The findings of this study have been published in a leading ornithological journal and are expected to contribute significantly to our understanding of avian ecology in the South Asian region.",
+    "tags": ["science", "biology", "ornithology", "ecology", "migration"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "f7abcde1p23456789f7abcde1p2345",
+    "category_id": 8,
+    "title": "Calls for Interim Government Intensify Ahead of National Elections",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 9876,
+    "author": {
+      "name": "Kamal Hossain",
+      "published_date": "2025-04-22T20:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    "thumbnail_url": "https://peoplesdispatch.org/wp-content/uploads/2025/02/Bangladesh-interim-govt-2.jpg",
+    "image_url": "https://peoplesdispatch.org/wp-content/uploads/2025/02/Bangladesh-interim-govt-2.jpg",
+    "details": "As the date for the next national elections approaches, calls for the formation of an interim government are intensifying from various political factions and civil society groups. These groups argue that an interim government is necessary to ensure a free and fair election process, free from any potential influence from the incumbent administration. The ruling party, however, has maintained its stance that the current government will oversee the elections, as per the constitutional provisions. This disagreement has led to increased political tensions, with opposition parties threatening to boycott the elections if their demands are not met. Discussions and negotiations are ongoing to find a mutually acceptable solution, but the issue remains a significant point of contention in the lead-up to the polls.",
+    "tags": [
+      "politics",
+      "interim government",
+      "elections",
+      "opposition",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "abf7cde1p23456789abf7cde123456",
+    "category_id": 8,
+    "title": "BNP Announces Mass Protests Against Government Policies",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 10567,
+    "author": {
+      "name": "Mirza Fakhrul Islam Alamgir",
+      "published_date": "2025-04-22T20:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/44.jpg"
+    },
+    "thumbnail_url": "https://cosmosgroup.sgp1.digitaloceanspaces.com/news/8639917.webp",
+    "image_url": "https://cosmosgroup.sgp1.digitaloceanspaces.com/news/8639917.webp",
+    "details": "The Bangladesh Nationalist Party (BNP), a major opposition party, has announced plans to hold a series of mass protests across the country to demonstrate against what they perceive as anti-people policies of the current government. The BNP alleges that the government's economic policies have led to increased inflation and hardship for ordinary citizens. They are also demanding electoral reforms and the release of detained political leaders. The announcement has heightened political tensions, with the government warning against any disruptive activities. Security forces are on high alert, and the upcoming protests are expected to draw significant attention from both national and international observers. The BNP aims to mobilize its supporters and exert pressure on the government to address their demands.",
+    "tags": [
+      "politics",
+      "BNP",
+      "protests",
+      "government policies",
+      "opposition"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "baf7des1p23456789baf7des12345",
+    "category_id": 8,
+    "title": "Sajid's Political Commentary Sparks Debate on Social Media",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 8901,
+    "author": {
+      "name": "Sajid Hasan",
+      "published_date": "2025-04-22T20:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/55.jpg"
+    },
+    "thumbnail_url": "https://ecdn.dhakatribune.net/contents/cache/images/800x450x1/uploads/media/2024/09/14/Sarjis-Alam-4dba928c6850093c2b430a6c14590be2.jpg?jadewits_media_id=28752",
+    "image_url": "https://ecdn.dhakatribune.net/contents/cache/images/800x450x1/uploads/media/2024/09/14/Sarjis-Alam-4dba928c6850093c2b430a6c14590be2.jpg?jadewits_media_id=28752",
+    "details": "A recent political commentary by social media influencer Sajid has ignited a widespread debate across various online platforms in Bangladesh. His remarks, which criticized certain government policies and political figures, have drawn both support and strong condemnation from different segments of the online community. The commentary has raised questions about freedom of expression and the role of social media in shaping political discourse. While some see Sajid's comments as a courageous critique of authority, others have accused him of spreading misinformation and inciting unrest. The controversy has amplified discussions about the responsibilities of social media influencers and the need for balanced and informed political dialogue in the digital age.",
+    "tags": ["politics", "Sajid", "social media", "commentary", "debate"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "012345p7abcdef89012345p7ab",
+    "category_id": 8,
+    "title": "Parliament Debates New Legislation on Digital Security",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 10234,
+    "author": {
+      "name": "Khaled Masud",
+      "published_date": "2025-04-22T20:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/30.jpg"
+    },
+    "thumbnail_url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/02/23/thumbs/1200x675/369892.jpg",
+    "image_url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/02/23/thumbs/1200x675/369892.jpg",
+    "details": "The Parliament of Bangladesh is currently engaged in a heated debate over proposed new legislation concerning digital security. The bill aims to update existing laws to address emerging cyber threats and protect digital infrastructure. However, concerns have been raised by opposition parties and civil society organizations regarding potential implications for freedom of speech and online expression. Several amendments have been proposed, and the parliamentary sessions are expected to continue as lawmakers work towards reaching a consensus on the final version of the bill. The outcome of this legislative process is being closely watched by various stakeholders, including technology companies, human rights groups, and the general public, given its potential impact on the digital landscape of the country.",
+    "tags": [
+      "politics",
+      "legislation",
+      "digital security",
+      "parliament",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "cbf7ed01p23456789cbf7ed0123456",
+    "category_id": 8,
+    "title": "Hasnat's Economic Analysis Raises Concerns Over National Debt",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 7654,
+    "author": {
+      "name": "Hasnat Karim",
+      "published_date": "2025-04-22T19:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    "thumbnail_url": "https://media.prothomalo.com/prothomalo-english%2F2024-11-20%2F5h78np98%2FHasnat-Abdullah.webp?rect=0%2C0%2C800%2C533&w=622&auto=format%2Ccompress&fmt=avif",
+    "image_url": "https://media.prothomalo.com/prothomalo-english%2F2024-11-20%2F5h78np98%2FHasnat-Abdullah.webp?rect=0%2C0%2C800%2C533&w=622&auto=format%2Ccompress&fmt=avif",
+    "details": "An economic analysis published by Hasnat, a prominent economist, has raised concerns over the increasing national debt of Bangladesh. The report highlights the potential risks associated with the country's growing debt burden and calls for more prudent fiscal management. Hasnat's analysis has sparked discussions among economists, policymakers, and the public about the long-term sustainability of the nation's economic policies. The government has responded by stating that the debt is manageable and that they are taking measures to ensure fiscal stability. However, the report has fueled debates about the need for greater transparency and accountability in public spending and the importance of addressing the national debt to safeguard the country's economic future.",
+    "tags": ["politics", "economy", "national debt", "Hasnat", "analysis"],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "production": true
+  },
+  {
+    "id": "bcdefa7p123458901bcdefa7p123",
+    "category_id": 8,
+    "title": "Major Political Parties Announce Preparations for Upcoming Local Elections",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 12789,
+    "author": {
+      "name": "Selina Hossain",
+      "published_date": "2025-04-22T20:15:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/41.jpg"
+    },
+    "thumbnail_url": "https://outspoken.newagebd.com/files/img/202412/287038b576057a48267828ae5991b507.jpg",
+    "image_url": "https://outspoken.newagebd.com/files/img/202412/287038b576057a48267828ae5991b507.jpg",
+    "details": "The major political parties in Bangladesh have officially announced their preparations and strategies for the upcoming local government elections. Nomination processes are underway, and rallies and campaign events are expected to intensify in the coming weeks. The local elections are seen as a significant indicator of the political climate and public sentiment at the grassroots level. Analysts predict a closely contested election in several key constituencies. The Election Commission is outlining the schedule and guidelines for the polls, emphasizing the importance of a free and fair electoral process. The focus is on local issues and candidates, as parties aim to mobilize their support base and secure victories in these crucial local races.",
+    "tags": [
+      "politics",
+      "elections",
+      "local government",
+      "political parties",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "cdefab1p723456901cdefab1p7234",
+    "category_id": 8,
+    "title": "Government Unveils New Economic Policy Initiatives to Boost Growth",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 9567,
+    "author": {
+      "name": "Atiur Rahman",
+      "published_date": "2025-04-22T20:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/72.jpg"
+    },
+    "thumbnail_url": "https://www.livemint.com/lm-img/img/2024/02/19/600x338/entrepreneur-ga9d703d18_1920_1639462099902_1708343550420_1708343558793.jpg",
+    "image_url": "https://www.livemint.com/lm-img/img/2024/02/19/600x338/entrepreneur-ga9d703d18_1920_1639462099902_1708343550420_1708343558793.jpg",
+    "details": "The government of Bangladesh has announced a set of new economic policy initiatives aimed at accelerating economic growth and attracting further investment. The measures include tax incentives for specific sectors, streamlining of business regulations, and increased spending on infrastructure development projects. The government hopes these policies will create more job opportunities, boost industrial production, and enhance the country's overall economic competitiveness. Business leaders and economists are offering their perspectives on the potential impact of these initiatives, with many expressing cautious optimism. The implementation and effectiveness of these policies will be closely monitored in the coming months as the government seeks to achieve its economic targets.",
+    "tags": [
+      "politics",
+      "economy",
+      "government policy",
+      "growth",
+      "investment"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "defabc7p123450123defabc7p12345",
+    "category_id": 8,
+    "title": "Opposition Parties Stage Protest Rally Demanding Electoral Reforms",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 8234,
+    "author": {
+      "name": "Ruhul Kabir Rizvi",
+      "published_date": "2025-04-22T19:45:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22344433481829.jpg?resize=1920%2C1440",
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22344433481829.jpg?resize=1920%2C1440",
+    "details": "A coalition of opposition political parties in Bangladesh has organized a large-scale protest rally in the capital city, demanding comprehensive reforms to the electoral system. The parties are calling for greater transparency and accountability in the election process to ensure free and fair polls in the future. The rally drew a significant number of supporters, and leaders addressed the crowd, outlining their demands for specific changes to the electoral laws and the role of the Election Commission. Security measures were heightened in the city to maintain order during the demonstration. The government has acknowledged the opposition's concerns and indicated a willingness to engage in discussions, although the extent and nature of potential reforms remain to be seen.",
+    "tags": [
+      "politics",
+      "protest",
+      "electoral reforms",
+      "opposition",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "012345q7abcdef89012345q7ab",
+    "category_id": 9,
+    "title": "Heavy Rainfall Causes Waterlogging in Several Chittagong Areas",
+    "rating": {
+      "number": 3,
+      "badge": "trending"
+    },
+    "total_view": 6789,
+    "author": {
+      "name": "Anika Tabassum",
+      "published_date": "2025-04-22T21:00:00.000Z",
+      "img": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    "thumbnail_url": "https://ecdn.dhakatribune.net/contents/cache/images/900x0x1/uploads/dten/2018/07/web-chittagong-waterlogging-muradpur-2-focus-bangla-24-07-2018-1532442175533.jpg",
+    "image_url": "https://ecdn.dhakatribune.net/contents/cache/images/900x0x1/uploads/dten/2018/07/web-chittagong-waterlogging-muradpur-2-focus-bangla-24-07-2018-1532442175533.jpg",
+    "details": "Continuous heavy rainfall has led to significant waterlogging in several low-lying areas of Chittagong. Commuters are facing difficulties as roads become submerged, and residents in affected areas are experiencing disruptions to their daily lives. City authorities are working to pump out the water and provide assistance to those stranded. The meteorological department has forecasted more rainfall in the coming hours, raising concerns about further water accumulation. Residents in vulnerable areas are advised to take necessary precautions and stay updated on weather advisories. Traffic movement in the affected zones has been slow, and authorities are urging people to avoid unnecessary travel.",
+    "tags": ["local news", "Chittagong", "weather", "rainfall", "waterlogging"],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  },
+  {
+    "id": "efabcd1p723456012efabcd1p723456",
+    "category_id": 8,
+    "title": "Diplomatic Efforts Underway to Resolve Bilateral Issues with Neighboring Country",
+    "rating": {
+      "number": 4,
+      "badge": "trending"
+    },
+    "total_view": 7654,
+    "author": {
+      "name": "Shahriar Alam",
+      "published_date": "2025-04-22T19:30:00.000Z",
+      "img": "https://randomuser.me/api/portraits/men/81.jpg"
+    },
+    "thumbnail_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2025/04/04/Yunus-Bimstec-aebb45ceb40168232e988c7641e47524.jpg?jadewits_media_id=42158",
+    "image_url": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2025/04/04/Yunus-Bimstec-aebb45ceb40168232e988c7641e47524.jpg?jadewits_media_id=42158",
+    "details": "Intensive diplomatic efforts are currently underway between Bangladesh and a neighboring country to address and resolve several outstanding bilateral issues. High-level delegations from both nations are engaged in discussions covering a range of topics, including border management, water sharing, and trade relations. The aim of these diplomatic initiatives is to strengthen ties between the two countries and find mutually agreeable solutions to long-standing challenges. Progress reports from the ongoing talks suggest a commitment from both sides to fostering a more cooperative and productive relationship. The outcomes of these diplomatic engagements are being closely monitored, as they have significant implications for regional stability and economic cooperation.",
+    "tags": [
+      "politics",
+      "diplomacy",
+      "international relations",
+      "bilateral issues",
+      "Bangladesh"
+    ],
+    "others": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "production": true
+  }
+]
